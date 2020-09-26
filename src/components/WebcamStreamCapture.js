@@ -1,0 +1,167 @@
+import React from 'react';
+import Webcam from "react-webcam";
+import axios from 'axios';
+import { Button, Row, Col, notification } from 'antd';
+import { CheckCircleOutlined, CloseCircleOutlined, CloudUploadOutlined, PlayCircleOutlined, PauseCircleOutlined } from '@ant-design/icons';
+
+
+export const WebcamStreamCapture = () => {
+  const webcamRef = React.useRef(null);
+  const mediaRecorderRef = React.useRef(null);
+  const [capturing, setCapturing] = React.useState(false);
+  const [recordedChunks, setRecordedChunks] = React.useState([]);
+
+  const videoConstraints = {
+    width: 320,
+    height: 240,
+    facingMode: "user"
+  };
+
+  const handleStartCaptureClick = React.useCallback(() => {
+    console.log("Start Capture");
+    setCapturing(true);
+    mediaRecorderRef.current = new MediaRecorder(webcamRef.current.stream, {
+      mimeType: "video/webm"
+    });
+    mediaRecorderRef.current.addEventListener(
+      "dataavailable",
+      handleDataAvailable
+    );
+    mediaRecorderRef.current.start();
+  }, [webcamRef, setCapturing, mediaRecorderRef]);
+
+  const handleDataAvailable = React.useCallback(
+    ({ data }) => {
+      if (data.size > 0) {
+        setRecordedChunks((prev) => prev.concat(data));
+      }
+    },
+    [setRecordedChunks]
+  );
+
+  const handleStopCaptureClick = React.useCallback(() => {
+    console.log("Stop Capture");
+    mediaRecorderRef.current.stop();
+    setCapturing(false);
+  }, [mediaRecorderRef, webcamRef, setCapturing]);
+
+  const handleDownload = React.useCallback(() => {
+    console.log("Upload Video");
+    if (recordedChunks.length) {
+      console.log("Creating blob");
+      const blob = new Blob(recordedChunks, {
+        type: "video/webm"
+      });
+    var formData = new FormData();
+    formData.append("blob", blob);
+
+    axios({
+      method: 'post',
+      url: "http://ec2-35-153-79-96.compute-1.amazonaws.com:8080/video/upload",
+      data: formData, 
+    }).then(function (response) {
+      console.log("Success");
+      console.log(response);
+      notification.open({
+        message: 'Successfully uploaded video',
+        icon: <CheckCircleOutlined  style={{ color: '#a0d911' }} />,
+      });
+    })
+    .catch(function (error) {
+      console.log("Failed");
+      console.log(error.response.data.message);
+      notification.open({
+        message: 'Failed to upload video',
+        icon: <CloseCircleOutlined  style={{ color: '#f5222d' }} />,
+      });
+    });
+
+    //formData.append("duration", 10);
+    /*console.log("Making new request var");
+    var request = new XMLHttpRequest();
+    //Change this
+    console.log("Starting");
+    request.open("POST", "http://ec2-35-153-79-96.compute-1.amazonaws.com:8080/video/upload");
+    request.send(formData);
+    console.log("Sent");
+    console.log(request.status);
+    if (request.status === 200) {
+      console.log("Success");
+      console.log(request.responseText);
+    } else {
+      console.log("Error");
+      console.log(request.responseText);
+    }
+    console.log("Done!");*/
+
+    setRecordedChunks([]);
+    }
+  }, [recordedChunks]);
+
+  const stopAndDownload = React.useCallback(() => { 
+    handleStopCaptureClick();
+    if (recordedChunks.length > 0){
+      handleDownload();
+    }
+  });
+
+  return (
+    <>
+      <div>
+        <Row justify="space-around" align="middle">
+          <Col flex={1}>
+            <div style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+            }}>
+              {capturing ? (
+              <Button onClick={handleStopCaptureClick} type="primary" icon={<PauseCircleOutlined />} danger>结束录制并上传</Button>
+              ) : (
+                <Button onClick={handleStartCaptureClick}
+                  type="primary"
+                  icon={<PlayCircleOutlined />}
+                >开始录制</Button>
+              )}
+            </div>
+          </Col>
+
+          <Col flex={3}>
+            <div style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+            }}>
+              <Webcam audio={true} ref={webcamRef} videoConstraints={videoConstraints} width="180"/>
+            </div>
+          </Col>
+
+          <Col flex={1}>
+            <div style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+            }}>
+              {recordedChunks.length > 0 && (
+                <Button onClick={handleDownload} 
+                type="primary"
+                icon={<CloudUploadOutlined />}
+                >开始上传</Button>
+              )}
+              {recordedChunks.length <= 0 && (
+                <Button disabled
+                type="primary"
+                icon={<CloudUploadOutlined />}
+                >开始上传</Button>
+              )}
+            </div>
+          </Col>
+        </Row>
+
+        <Row style={{ marginBottom: 8 }}></Row>
+
+      </div>
+      
+    </>
+  );
+};
