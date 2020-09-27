@@ -34,7 +34,11 @@ class LoginForm extends Component {
       setTimeout(() => {
         setAuthUser(`${username}`)
         updateUserBookId(detail.bookPointer)
-        this.props.history.push("/");
+        //Pass down detail.usertype
+
+        this.props.history.push({pathname: "/", data: {
+          userType: detail.userType
+        }});
       }, 500)
 
     } else {

@@ -11,11 +11,16 @@ class BooksApp extends React.Component {
     state = {
         bookList: [],
         visible: window.location.pathname === '/home' ? false : true,
-        videoVisible: false
+        videoVisible: false,
     }
 
     componentDidMount() {
         this.getBookList()
+        const {data} = this.props.location
+ 
+        this.setState({userType: data.userType}, () => {
+            //console.log(this.state.userType, 'userType');
+        }); 
     }
 
 
@@ -62,7 +67,7 @@ class BooksApp extends React.Component {
     }
 
     render() {
-        const { bookList, visible, videoVisible } = this.state
+        const { bookList, visible, videoVisible, userType } = this.state
         return (
             <div className="home-books-results">
                 {(!videoVisible && !visible) && <Spin tip="加载中..." spinning={bookList.length > 0 ? false : true}>
@@ -96,7 +101,8 @@ class BooksApp extends React.Component {
                     destroyOnClose={true}
                 >
                     <video style={{ width: '100%', height: '100%', outline: 'unset' }} controls>
-                        <source src='/video.mp4' type="video/mp4" />
+                        {userType != 1 && <source src='/video.mp4' type="video/mp4" />}
+                        {userType == 1 && <source src='/videoB.mp4' type="video/mp4" />}
                     </video>
                 </Modal>
             </div>

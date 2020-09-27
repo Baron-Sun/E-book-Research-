@@ -8,6 +8,7 @@ const Login = {
         let { username, password } = params
         let data = request.post(`/_api2/user/login?id=9&password=${password}&userType=1&username=${username}`, params)
             .then((response) => {
+            	console.log(response);
                 return response
             })
         return data
