@@ -24,8 +24,12 @@ const ajax = function (request) {
     r.onreadystatechange = function (event) {
         if (r.readyState === 4) {
             if (r.status == 200) {
-                const data = JSON.parse(r.response)
-                request.success(data)
+                try {
+                    const data = JSON.parse(r.response)
+                    request.success(data)
+                } catch (error) {
+                    request.success({success:true}) // logout request does not return a json file; using catch to handle it. May need to talk to backend team later. 
+                }
             }
             if (r.status == 500) {
                 request.error()
