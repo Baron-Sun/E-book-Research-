@@ -1,14 +1,13 @@
 {
   "files": {
     "index.css": "/static/css/index.cd966e83.chunk.css",
-    "index.js": "/static/js/index.9d2fd425.chunk.js",
-    "index.js.map": "/static/js/index.9d2fd425.chunk.js.map",
+    "index.js": "/static/js/index.a77614ce.chunk.js",
+    "index.js.map": "/static/js/index.a77614ce.chunk.js.map",
     "runtime-index.js": "/static/js/runtime-index.1c947667.js",
     "runtime-index.js.map": "/static/js/runtime-index.1c947667.js.map",
     "static/css/2.04ff9426.chunk.css": "/static/css/2.04ff9426.chunk.css",
     "static/js/2.d81b0975.chunk.js": "/static/js/2.d81b0975.chunk.js",
     "static/js/2.d81b0975.chunk.js.map": "/static/js/2.d81b0975.chunk.js.map",
-    "books/.DS_Store": "/books/.DS_Store",
     "books/01/ar/137977.mp3": "/books/01/ar/137977.mp3",
     "books/01/ar/138706.mp3": "/books/01/ar/138706.mp3",
     "books/01/ar/139941.mp3": "/books/01/ar/139941.mp3",
@@ -2172,7 +2171,7 @@
     "books/05/index.html": "/books/05/index.html",
     "books/05/project.txt": "/books/05/project.txt",
     "index.html": "/index.html",
-    "precache-manifest.672e3e16e5394e068a0781ab5b7507c6.js": "/precache-manifest.672e3e16e5394e068a0781ab5b7507c6.js",
+    "precache-manifest.deae4601ea0cb7efa01ef7b66bbe0148.js": "/precache-manifest.deae4601ea0cb7efa01ef7b66bbe0148.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/static/css/2.04ff9426.chunk.css.map",
     "static/css/index.cd966e83.chunk.css.map": "/static/css/index.cd966e83.chunk.css.map",
@@ -2186,7 +2185,7 @@
       "static/css/2.04ff9426.chunk.css",
       "static/js/2.d81b0975.chunk.js",
       "static/css/index.cd966e83.chunk.css",
-      "static/js/index.9d2fd425.chunk.js"
+      "static/js/index.a77614ce.chunk.js"
     ]
   }
 }

@@ -8,7 +8,9 @@ async function handleLogout(history){
         let { success, detail = {} } = await LogoutService.post();
         if (success) {
             setTimeout(() => {
-            history.push( "/"); // home page
+            history.push( {pathname: "/", data: {
+                userType: null
+              }}); // home page
             window.location.reload(true); // welcome page
             }, 500)
         } else {
