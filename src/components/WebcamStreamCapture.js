@@ -54,10 +54,11 @@ export const WebcamStreamCapture = () => {
       });
     var formData = new FormData();
     formData.append("blob", blob);
+    formData.append("username", "Test-Username");
 
     axios({
       method: 'post',
-      url: "http://ec2-35-153-79-96.compute-1.amazonaws.com:8080/video/upload",
+      url: "http://101.37.78.56:9090/video/upload",
       data: formData, 
     }).then(function (response) {
       console.log("Success");
@@ -75,24 +76,6 @@ export const WebcamStreamCapture = () => {
         icon: <CloseCircleOutlined  style={{ color: '#f5222d' }} />,
       });
     });
-
-    //formData.append("duration", 10);
-    /*console.log("Making new request var");
-    var request = new XMLHttpRequest();
-    //Change this
-    console.log("Starting");
-    request.open("POST", "http://ec2-35-153-79-96.compute-1.amazonaws.com:8080/video/upload");
-    request.send(formData);
-    console.log("Sent");
-    console.log(request.status);
-    if (request.status === 200) {
-      console.log("Success");
-      console.log(request.responseText);
-    } else {
-      console.log("Error");
-      console.log(request.responseText);
-    }
-    console.log("Done!");*/
 
     setRecordedChunks([]);
     }
