@@ -36,7 +36,7 @@ class LoginForm extends Component {
         updateUserBookId(detail.bookPointer)
         //Pass down detail.usertype
 
-        this.props.history.push({pathname: "/home", data: {
+        this.props.history.push({pathname: "/", data: {
           userType: detail.userType
         }});
       }, 500)

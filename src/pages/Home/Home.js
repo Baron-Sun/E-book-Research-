@@ -17,10 +17,19 @@ class BooksApp extends React.Component {
     componentDidMount() {
         this.getBookList()
         const {data} = this.props.location
- 
-        this.setState({userType: data.userType}, () => {
-            //console.log(this.state.userType, 'userType');
-        }); 
+        console.log("-----------------------");
+        console.log(data);
+        console.log("-----------------------");
+        if(data) {
+            this.setState({userType: data.userType}, () => {
+                console.log(this.state.userType, 'userType');
+            });
+        } else {
+            //Default to video A
+            this.setState({userType: 1}, () => {
+                console.log(this.state.userType, 'userType');
+            });
+        }
     }
 
 
@@ -101,6 +110,7 @@ class BooksApp extends React.Component {
                     destroyOnClose={true}
                 >
                     <video style={{ width: '100%', height: '100%', outline: 'unset' }} controls>
+                        {/*<source src='/video.mp4' type="video/mp4" />*/}
                         {userType != 1 && <source src='/video.mp4' type="video/mp4" />}
                         {userType == 1 && <source src='/videoB.mp4' type="video/mp4" />}
                     </video>

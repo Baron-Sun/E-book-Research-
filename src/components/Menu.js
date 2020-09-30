@@ -29,7 +29,7 @@ const MenuComponent = (props) => {
             <Menu.Item key="home" >
                 <NavLink to="/home" exact activeClassName="active">
                     Home
-            </NavLink>
+                </NavLink>
             </Menu.Item>
             <Menu.Item key="logout" onClick={()=>handleLogout(history)}>
                     Logout
