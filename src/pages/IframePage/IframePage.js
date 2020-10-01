@@ -20,9 +20,9 @@ class IframePage extends Component {
     };
 
     notification.open({
-      message: 'Please click start Capture before starting.',
+      message: '阅读之前请点击“开始录制”',
       description:
-        'When finished, please press the stop capture button',
+        '当您阅读结束，请点击“结束录制并上传”',
       icon: <InfoCircleOutlined style={{ color: '#f5222d' }} />,
       onClick: () => {
         console.log('Notification Clicked!');
