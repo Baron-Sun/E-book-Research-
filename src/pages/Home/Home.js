@@ -111,8 +111,8 @@ class BooksApp extends React.Component {
                 >
                     <video style={{ width: '100%', height: '100%', outline: 'unset' }} controls>
                         {/*<source src='/video.mp4' type="video/mp4" />*/}
-                        {userType != 1 && <source src='/video.mp4' type="video/mp4" />}
-                        {userType == 1 && <source src='/videoB.mp4' type="video/mp4" />}
+                        {userType == 2 && <source src='/video.mp4' type="video/mp4" />}
+                        {userType == 3 && <source src='/videoB.mp4' type="video/mp4" />}
                     </video>
                 </Modal>
             </div>
