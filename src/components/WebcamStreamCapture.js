@@ -5,7 +5,7 @@ import { Button, Row, Col, notification } from 'antd';
 import { CheckCircleOutlined, CloseCircleOutlined, CloudUploadOutlined, PlayCircleOutlined, PauseCircleOutlined } from '@ant-design/icons';
 
 
-export const WebcamStreamCapture = () => {
+export const WebcamStreamCapture = (props) => {
   const webcamRef = React.useRef(null);
   const mediaRecorderRef = React.useRef(null);
   const [capturing, setCapturing] = React.useState(false);
@@ -54,7 +54,9 @@ export const WebcamStreamCapture = () => {
       });
     var formData = new FormData();
     formData.append("blob", blob);
-    formData.append("username", "Test-Username");
+    console.log("Username inside the webcam capture: ");
+    console.log(props);
+    formData.append("username", props.username ? props.username : "No Username Provided");
 
     axios({
       method: 'post',

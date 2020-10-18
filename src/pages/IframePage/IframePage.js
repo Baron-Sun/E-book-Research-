@@ -11,7 +11,7 @@ class IframePage extends Component {
   };
 
   componentDidMount() {
-
+    console.log(this.props.authUser);
     this.scaleResize()
     this.iframeEl.onload = () => {
       this.setState({
@@ -59,7 +59,7 @@ class IframePage extends Component {
     return (
       <div>
         <div >
-          <WebcamStreamCapture/>
+          <WebcamStreamCapture username={this.props.authUser}/>
         </div>
         <div
           className="iframe-container"
