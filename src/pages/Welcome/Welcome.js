@@ -46,6 +46,11 @@ export class Welcome extends Component {
               </Link>
             </div>
           </div>
+          <br />
+          <br />
+          <br />
+          <br />
+          <h2 style={styleBlueText}>本网站备案/许可证编号为：浙ICP备2020036580号</h2>
       </div>
     );
   }
