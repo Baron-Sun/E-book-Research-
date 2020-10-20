@@ -101,7 +101,7 @@ export const WebcamStreamCapture = (props) => {
                 justifyContent: 'center',
             }}>
               {capturing ? (
-              <Button onClick={handleStopCaptureClick} type="primary" icon={<PauseCircleOutlined />} danger>结束录制并上传</Button>
+              <Button onClick={handleStopCaptureClick} type="primary" icon={<PauseCircleOutlined />} danger>结束录制</Button>
               ) : (
                 <Button onClick={handleStartCaptureClick}
                   type="primary"
