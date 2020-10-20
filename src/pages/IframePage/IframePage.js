@@ -22,7 +22,7 @@ class IframePage extends Component {
     notification.open({
       message: '阅读之前请点击“开始录制”',
       description:
-        '当您阅读结束，请点击“结束录制并上传”',
+        '当您阅读结束，请点击“结束录制“并点击右侧”开始上传”',
       icon: <InfoCircleOutlined style={{ color: '#f5222d' }} />,
       onClick: () => {
         console.log('Notification Clicked!');
