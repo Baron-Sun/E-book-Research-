@@ -60,7 +60,7 @@ export const WebcamStreamCapture = (props) => {
 
     axios({
       method: 'post',
-      url: "http://101.37.78.56:9090/video/upload",
+      url: "/_api2/video/upload",
       data: formData, 
     }).then(function (response) {
       console.log("Success");
