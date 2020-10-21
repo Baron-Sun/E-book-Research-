@@ -8584,28 +8584,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/project.txt"
   },
   {
-    "revision": "1390bea97d6d5b766882b0d27333fa28",
+    "revision": "5e958a4dee517ad40dc6195bca8398f5",
     "url": "/index.html"
   },
   {
-    "revision": "5d4ad9c1710c4a7d7a8f",
+    "revision": "40615f67cf06fee172d6",
     "url": "/static/css/2.04ff9426.chunk.css"
   },
   {
-    "revision": "3da8a90b398e6a13a57f",
+    "revision": "eea618edc204dcdd8ac1",
     "url": "/static/css/index.cd966e83.chunk.css"
   },
   {
-    "revision": "5d4ad9c1710c4a7d7a8f",
-    "url": "/static/js/2.f74fe7c6.chunk.js"
+    "revision": "40615f67cf06fee172d6",
+    "url": "/static/js/2.e5d04f65.chunk.js"
   },
   {
     "revision": "df70e88160ca60355b5555e5ed8537ea",
-    "url": "/static/js/2.f74fe7c6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e5d04f65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3da8a90b398e6a13a57f",
-    "url": "/static/js/index.0cf0410d.chunk.js"
+    "revision": "eea618edc204dcdd8ac1",
+    "url": "/static/js/index.38cf0ca3.chunk.js"
   },
   {
     "revision": "995479d5341e246fde38",
