@@ -42,7 +42,7 @@ export class Welcome extends Component {
           <div style={styleContainer}>
             <div style={styleCenter}>
               <Link to="/login" > 
-                 <Button type="primary" style={styleButton}>登 &emsp; 录</Button>
+                 <Button type="primary" style={styleButton}>登 录 &emsp; Login</Button>
               </Link>
             </div>
           </div>
