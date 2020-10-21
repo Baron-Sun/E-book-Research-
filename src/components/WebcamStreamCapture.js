@@ -66,7 +66,7 @@ export const WebcamStreamCapture = (props) => {
       console.log("Success");
       console.log(response);
       notification.open({
-        message: 'Successfully uploaded video',
+        message: '上传成功！',
         icon: <CheckCircleOutlined  style={{ color: '#a0d911' }} />,
       });
     })
@@ -74,7 +74,7 @@ export const WebcamStreamCapture = (props) => {
       console.log("Failed");
       console.log(error.response.data.message);
       notification.open({
-        message: 'Failed to upload video',
+        message: '上传失败！请联系管理员',
         icon: <CloseCircleOutlined  style={{ color: '#f5222d' }} />,
       });
     });
