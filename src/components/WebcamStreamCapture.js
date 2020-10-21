@@ -106,7 +106,7 @@ export const WebcamStreamCapture = (props) => {
                 <Button onClick={handleStartCaptureClick}
                   type="primary"
                   icon={<PlayCircleOutlined />}
-                >开始 Start</Button>
+                >录制 Record</Button>
               )}
             </div>
           </Col>
