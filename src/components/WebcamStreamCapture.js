@@ -101,12 +101,12 @@ export const WebcamStreamCapture = (props) => {
                 justifyContent: 'center',
             }}>
               {capturing ? (
-              <Button onClick={handleStopCaptureClick} type="primary" icon={<PauseCircleOutlined />} danger>结束录制</Button>
+              <Button onClick={handleStopCaptureClick} type="primary" icon={<PauseCircleOutlined />} danger>结束 End</Button>
               ) : (
                 <Button onClick={handleStartCaptureClick}
                   type="primary"
                   icon={<PlayCircleOutlined />}
-                >开始录制</Button>
+                >开始 Start</Button>
               )}
             </div>
           </Col>
@@ -131,13 +131,13 @@ export const WebcamStreamCapture = (props) => {
                 <Button onClick={handleDownload} 
                 type="primary"
                 icon={<CloudUploadOutlined />}
-                >开始上传</Button>
+                >上传 Upload</Button>
               )}
               {recordedChunks.length <= 0 && (
                 <Button disabled
                 type="primary"
                 icon={<CloudUploadOutlined />}
-                >开始上传</Button>
+                >上传 Upload</Button>
               )}
             </div>
           </Col>
