@@ -19,7 +19,7 @@ class IframePage extends Component {
       });
     };
 
-    notification.open({
+    /*notification.open({
       message: '阅读之前请点击“录制 Record”',
       description:
         '当您阅读结束，请点击“结束 Stop“并点击右侧”上传 Upload”',
@@ -27,7 +27,7 @@ class IframePage extends Component {
       onClick: () => {
         console.log('Notification Clicked!');
       },
-    });
+    });*/
   }
 
   //适配
@@ -58,9 +58,6 @@ class IframePage extends Component {
 
     return (
       <div>
-        <div >
-          <WebcamStreamCapture username={this.props.authUser}/>
-        </div>
         <div
           className="iframe-container"
           style={{

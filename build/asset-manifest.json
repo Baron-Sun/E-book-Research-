@@ -1,13 +1,13 @@
 {
   "files": {
-    "index.css": "/static/css/index.cd966e83.chunk.css",
-    "index.js": "/static/js/index.8b5924c3.chunk.js",
-    "index.js.map": "/static/js/index.8b5924c3.chunk.js.map",
+    "index.css": "/static/css/index.8d3397d7.chunk.css",
+    "index.js": "/static/js/index.a18897e3.chunk.js",
+    "index.js.map": "/static/js/index.a18897e3.chunk.js.map",
     "runtime-index.js": "/static/js/runtime-index.1c947667.js",
     "runtime-index.js.map": "/static/js/runtime-index.1c947667.js.map",
     "static/css/2.04ff9426.chunk.css": "/static/css/2.04ff9426.chunk.css",
-    "static/js/2.e5d04f65.chunk.js": "/static/js/2.e5d04f65.chunk.js",
-    "static/js/2.e5d04f65.chunk.js.map": "/static/js/2.e5d04f65.chunk.js.map",
+    "static/js/2.e640cba0.chunk.js": "/static/js/2.e640cba0.chunk.js",
+    "static/js/2.e640cba0.chunk.js.map": "/static/js/2.e640cba0.chunk.js.map",
     "books/01/ar/137977.mp3": "/books/01/ar/137977.mp3",
     "books/01/ar/138706.mp3": "/books/01/ar/138706.mp3",
     "books/01/ar/139941.mp3": "/books/01/ar/139941.mp3",
@@ -2171,11 +2171,11 @@
     "books/05/index.html": "/books/05/index.html",
     "books/05/project.txt": "/books/05/project.txt",
     "index.html": "/index.html",
-    "precache-manifest.dc464c4f6afb9f8505e46efdc4526384.js": "/precache-manifest.dc464c4f6afb9f8505e46efdc4526384.js",
+    "precache-manifest.7e3fdc3ffd5132a1baef31ab9b3a8a3e.js": "/precache-manifest.7e3fdc3ffd5132a1baef31ab9b3a8a3e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/static/css/2.04ff9426.chunk.css.map",
-    "static/css/index.cd966e83.chunk.css.map": "/static/css/index.cd966e83.chunk.css.map",
-    "static/js/2.e5d04f65.chunk.js.LICENSE.txt": "/static/js/2.e5d04f65.chunk.js.LICENSE.txt",
+    "static/css/index.8d3397d7.chunk.css.map": "/static/css/index.8d3397d7.chunk.css.map",
+    "static/js/2.e640cba0.chunk.js.LICENSE.txt": "/static/js/2.e640cba0.chunk.js.LICENSE.txt",
     "static/media/image.png": "/static/media/image.dd608d34.png",
     "static/media/imageDropShadow.png": "/static/media/imageDropShadow.4a439170.png"
   },
@@ -2183,9 +2183,9 @@
     "index": [
       "static/js/runtime-index.1c947667.js",
       "static/css/2.04ff9426.chunk.css",
-      "static/js/2.e5d04f65.chunk.js",
-      "static/css/index.cd966e83.chunk.css",
-      "static/js/index.8b5924c3.chunk.js"
+      "static/js/2.e640cba0.chunk.js",
+      "static/css/index.8d3397d7.chunk.css",
+      "static/js/index.a18897e3.chunk.js"
     ]
   }
 }
