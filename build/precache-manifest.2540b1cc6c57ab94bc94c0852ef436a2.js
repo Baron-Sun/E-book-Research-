@@ -1072,35 +1072,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/assets/css/start/images/ui-icons_fcd113_256x240.png"
   },
   {
-    "revision": "d7ebb26583b03bfabb7645c410fe09a3",
+    "revision": "cbbf356e46f71482afa07ae0952329a2",
     "url": "/books/01/assets/css/start/jquery-ui-1.11.4.custom.css"
   },
   {
-    "revision": "2fc9ad253699c91323be75477fa50cd2",
+    "revision": "25e91525d7a8474f28dd158a9ca2474f",
     "url": "/books/01/assets/css/start/jquery-ui-1.11.4.custom.min.css"
   },
   {
-    "revision": "d020ba8f4a3af16d6069e52f793bac75",
+    "revision": "b275ec9523c74b4f5b9f43c1f2becee5",
     "url": "/books/01/assets/htmlimages/360_slide_OFF_Click.svg"
   },
   {
-    "revision": "8e21d48a815de2cd4de94c12a5a0d7a7",
+    "revision": "af01fc7ca77557b0567d881edf1b8ad9",
     "url": "/books/01/assets/htmlimages/360_slide_OFF_Hover.svg"
   },
   {
-    "revision": "b3e6c93a7f65b6f2d6854ae50fb64c46",
+    "revision": "9c6539216c4d44d32d0db7e293559ab6",
     "url": "/books/01/assets/htmlimages/360_slide_OFF_Normal.svg"
   },
   {
-    "revision": "3584ca37ca8abe14a463fbca2e351b7b",
+    "revision": "d0ad6752330677442ec4a3c6c8cc1bf1",
     "url": "/books/01/assets/htmlimages/360_slide_ON_Click.svg"
   },
   {
-    "revision": "e38ef68865e28bc9454ebefe161ced09",
+    "revision": "073854b6275706fd0ef4bd54ad666d6d",
     "url": "/books/01/assets/htmlimages/360_slide_ON_Hover.svg"
   },
   {
-    "revision": "42efc40544dff145a10a8fa1a96496de",
+    "revision": "05ff19f30397a8955ffdbd20e47bb159",
     "url": "/books/01/assets/htmlimages/360_slide_ON_normal.svg"
   },
   {
@@ -1192,7 +1192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/assets/htmlimages/Play_icon.png"
   },
   {
-    "revision": "82ec958a873d324250b1f428e0a30ebd",
+    "revision": "7a234455e394a5a1932786e360c92381",
     "url": "/books/01/assets/htmlimages/ThreeD_Close.svg"
   },
   {
@@ -1204,11 +1204,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/assets/htmlimages/ThreeD_HotspotGlow.png"
   },
   {
-    "revision": "c3604d5ec2fd2bbec6a5e5f20ff56ce9",
+    "revision": "e2ab288c722b32269370e2232d1cae60",
     "url": "/books/01/assets/htmlimages/ThreeD_Pause.svg"
   },
   {
-    "revision": "b30a60e86ccb5e5d04088f1791ab3b60",
+    "revision": "a8d5165bb092b1addf35e95fc0a8cc91",
     "url": "/books/01/assets/htmlimages/ThreeD_Play.svg"
   },
   {
@@ -1312,7 +1312,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/assets/htmlimages/assessmenthotspotvisited.png"
   },
   {
-    "revision": "762e25285eb83c56c9c9397df230e419",
+    "revision": "a755bbc66810b5dd3da18484e58fb8bd",
     "url": "/books/01/assets/htmlimages/assessmenthotspotvisited.svg"
   },
   {
@@ -1544,15 +1544,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/assets/htmlimages/vidvolumemute.png"
   },
   {
-    "revision": "292630435de161df89f3cdfff226f673",
+    "revision": "13ca99646683a015261e8bc9417813e0",
     "url": "/books/01/assets/js/CPM.js"
   },
   {
-    "revision": "75ba4a1710cbeda9fe81f76c10b643fe",
+    "revision": "5d6619486ce39205beb79bfe8979e751",
     "url": "/books/01/assets/js/CPXHRLoader.js"
   },
   {
-    "revision": "378087a64e1394fc51f300bb9c11878c",
+    "revision": "a09e13ee94d51c524b7e2a728c7d4039",
     "url": "/books/01/assets/js/jquery-3.3.1.min.js"
   },
   {
@@ -1996,387 +1996,387 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/01/dr/431797.gif"
   },
   {
-    "revision": "82a93ebd4bc2d68921f87d82df785383",
+    "revision": "8f12174fe84120a092daf79864943795",
     "url": "/books/01/dr/img1.json"
   },
   {
-    "revision": "6977122f5b9fec7b97000cd98050e2e9",
+    "revision": "c7b6b0bc9e993a82fdf629ad73847e2b",
     "url": "/books/01/dr/img10.json"
   },
   {
-    "revision": "0e199b2ff5459795885bbe14eaf139fb",
+    "revision": "d2dadf53458a8fcda16382981a0810aa",
     "url": "/books/01/dr/img11.json"
   },
   {
-    "revision": "d727e6519ac6a2dd7d7500f248606c1f",
+    "revision": "f18b3d02225d0a56048ad6d946a1ba01",
     "url": "/books/01/dr/img12.json"
   },
   {
-    "revision": "6a00a0080664e4ae30950b57f6c453e3",
+    "revision": "d386953075676c3530f20a1caa1d2b66",
     "url": "/books/01/dr/img13.json"
   },
   {
-    "revision": "179d5410bdd20c7300940f69d3de26b5",
+    "revision": "1fe5e2d6bcf4972ecf809d9d382e06ea",
     "url": "/books/01/dr/img14.json"
   },
   {
-    "revision": "55cde542b89546245afbff03dbd0395c",
+    "revision": "a1092c198217a5cab29f19965b417062",
     "url": "/books/01/dr/img15.json"
   },
   {
-    "revision": "71675b1e87e5e66c41d2c167ce6192fc",
+    "revision": "13252f27b9a7cee5123656bf5c5d6f9e",
     "url": "/books/01/dr/img16.json"
   },
   {
-    "revision": "aca87bc258e9d2fad37128697fefd89c",
+    "revision": "b3426d9f2e8be08136b81663f5f245cf",
     "url": "/books/01/dr/img17.json"
   },
   {
-    "revision": "3d1d91df65e6f3b407cb44140f08c61e",
+    "revision": "3c083cbead1d87496781f476e974be94",
     "url": "/books/01/dr/img18.json"
   },
   {
-    "revision": "3632875d780cdaa2001db2a98f7b4c45",
+    "revision": "e1cd1a8028ec376c1e094f6c4f129a7b",
     "url": "/books/01/dr/img19.json"
   },
   {
-    "revision": "ad3509d9065f8384b1f0ae37ae63c4b4",
+    "revision": "0b3c47a9c10538289096288ec924fcd6",
     "url": "/books/01/dr/img2.json"
   },
   {
-    "revision": "b4d1163a70c0b2fa8a4543d112889c86",
+    "revision": "db3984bf75488d618432ba0f33c3c6d0",
     "url": "/books/01/dr/img20.json"
   },
   {
-    "revision": "407c0687297689f38de6108de3bf03a0",
+    "revision": "3946c87e98eb1ad3c1fd42a0bb125b1d",
     "url": "/books/01/dr/img21.json"
   },
   {
-    "revision": "c6cb5c1b1d316531a305cd7cce0242e5",
+    "revision": "f9304b26de3b4bf2f598cdbf21cf242a",
     "url": "/books/01/dr/img22.json"
   },
   {
-    "revision": "205926407d700588572170735efa881d",
+    "revision": "4aa5f5d6c432955a3bcedaee27dc3d99",
     "url": "/books/01/dr/img23.json"
   },
   {
-    "revision": "5a6cf281d7ef0c97f4b5111b9984f2f9",
+    "revision": "1b2e315a8e9de9332cb87183616e49d2",
     "url": "/books/01/dr/img24.json"
   },
   {
-    "revision": "6c4e0861c8b69802a777c79373f7e74e",
+    "revision": "3f9a0be66692f5668a1a1e4c1fdf6976",
     "url": "/books/01/dr/img25.json"
   },
   {
-    "revision": "234bd6058bfae76c432e983e342de61c",
+    "revision": "3dce861b31eee157c2251a9a3b96c0af",
     "url": "/books/01/dr/img26.json"
   },
   {
-    "revision": "b3f6f2d17c4549bf3ac4f78491bfac99",
+    "revision": "544166d1c78feaa79fd119639be72af1",
     "url": "/books/01/dr/img27.json"
   },
   {
-    "revision": "584dbad86c90f828495d118e23cd6c10",
+    "revision": "4aafd431472628903c76eadeef670a33",
     "url": "/books/01/dr/img28.json"
   },
   {
-    "revision": "9b9f655eefc779c7d59f04c4c63eb7f3",
+    "revision": "9e7a90fc5734e851805ce937831d8272",
     "url": "/books/01/dr/img29.json"
   },
   {
-    "revision": "eb41177dc1d6321e1d1a99e103b277ea",
+    "revision": "c79079b134aa523885341917fa17e46e",
     "url": "/books/01/dr/img3.json"
   },
   {
-    "revision": "915eaa03db84d193cbbd1820d4827a5e",
+    "revision": "2521720ba9765fb9c54a869c9d00cc20",
     "url": "/books/01/dr/img30.json"
   },
   {
-    "revision": "4521c3a5ba66262094d5b1a75dbd01db",
+    "revision": "574a1f135c94c99b5fb034150f1abc63",
     "url": "/books/01/dr/img31.json"
   },
   {
-    "revision": "faa212ce92f26a481618d266186f7e74",
+    "revision": "4236686dd7191963dfa1e365438505aa",
     "url": "/books/01/dr/img32.json"
   },
   {
-    "revision": "2df33a3e1baadce4743e6114dec955f5",
+    "revision": "0ece0449cbbd72fa30b55c671caecbaf",
     "url": "/books/01/dr/img33.json"
   },
   {
-    "revision": "6f58fa56da2e110609169e99f9ee7ea4",
+    "revision": "b6e19bae73d6e4818ead602d30d94308",
     "url": "/books/01/dr/img34.json"
   },
   {
-    "revision": "c558cb1596cc11781f27fa79d378734f",
+    "revision": "a27882b37d883885fd1c0e5fd106840d",
     "url": "/books/01/dr/img35.json"
   },
   {
-    "revision": "23ebb33b70c57735541efcaba8cf6922",
+    "revision": "b103f2ff999961946d42fd12b99f0b69",
     "url": "/books/01/dr/img36.json"
   },
   {
-    "revision": "d14dfe9af3b74e3b49e9f6f1b941af55",
+    "revision": "dfdafe8adbf45ee72d049f47530c078c",
     "url": "/books/01/dr/img37.json"
   },
   {
-    "revision": "4afd0f0f07ab7c0ed27041406bf088c2",
+    "revision": "f91c7826bcf575dea1c01941c090f6f8",
     "url": "/books/01/dr/img38.json"
   },
   {
-    "revision": "10b4ad7a2955d995691a54720fa46ea6",
+    "revision": "e54e6521568745923e675c6a1f0cafd7",
     "url": "/books/01/dr/img39.json"
   },
   {
-    "revision": "d8ffb2e5ab4f66ad58d95eccdc63b243",
+    "revision": "c96aa2d312855c85e23f79e4bc2aa74f",
     "url": "/books/01/dr/img4.json"
   },
   {
-    "revision": "b2cb40a2ee8b336d27def6a0b20ed61f",
+    "revision": "f2f4cf86d5eecfd58304c0e259b4f984",
     "url": "/books/01/dr/img40.json"
   },
   {
-    "revision": "22ef2b952d46e3695630bbeb2d8f5e26",
+    "revision": "b430ed87369a7db43941cd4efa1c8162",
     "url": "/books/01/dr/img41.json"
   },
   {
-    "revision": "720417a74b92f6455ea7d55ecf60c084",
+    "revision": "d8c1497b62bd78c69c6af659de67ccee",
     "url": "/books/01/dr/img42.json"
   },
   {
-    "revision": "140247ff33c7ac40fe671da2de2b5031",
+    "revision": "c02b83c13745f571dda97e43f234f3cf",
     "url": "/books/01/dr/img43.json"
   },
   {
-    "revision": "c5d714f022a46d3f8f3b2275e9053cf3",
+    "revision": "c23a70dec609b3c1ff9f23dda59a3037",
     "url": "/books/01/dr/img44.json"
   },
   {
-    "revision": "4cea3ba3d967fc6daa4dce6e51045b9b",
+    "revision": "88a57843de07d07f7c8f4d6abe1ed421",
     "url": "/books/01/dr/img45.json"
   },
   {
-    "revision": "c7005345ce3353b7c7a69adf43e1b3a7",
+    "revision": "d49725136f1ed81e8dd22f90c5e3536f",
     "url": "/books/01/dr/img46.json"
   },
   {
-    "revision": "8d48dbf6acd89199a702b11b18bd177b",
+    "revision": "91e5a4350925b8094aea955d81e15ede",
     "url": "/books/01/dr/img47.json"
   },
   {
-    "revision": "9e66616d818d755aa8d1aee12bbd18ce",
+    "revision": "61761a97fc9b09640bbf6cfba8ea8c83",
     "url": "/books/01/dr/img48.json"
   },
   {
-    "revision": "35762087d907086e9c496d34c05d0c3e",
+    "revision": "3e422fd260de27253d8fb453f583acac",
     "url": "/books/01/dr/img49.json"
   },
   {
-    "revision": "d54db54d0f44c470a681c1087529d46f",
+    "revision": "3755736fded1ad79222d48991dd1b732",
     "url": "/books/01/dr/img5.json"
   },
   {
-    "revision": "92e9f8a7d78edf393542ee615147a0a0",
+    "revision": "4ae85c3aa8e18313f64da0c6db5ed50a",
     "url": "/books/01/dr/img50.json"
   },
   {
-    "revision": "fea4142fbdb22c79be35bc23b0f5e672",
+    "revision": "4c8d4cb23b7a6463881a41421a6febe6",
     "url": "/books/01/dr/img51.json"
   },
   {
-    "revision": "0eb578be85845302a0b5cdd659418a01",
+    "revision": "dd6859608c0a303515622e04517587b4",
     "url": "/books/01/dr/img52.json"
   },
   {
-    "revision": "900312d2ae4e62ae5f9047f0f5b6932c",
+    "revision": "209bb562df3e3fad20a86978acc7e3c5",
     "url": "/books/01/dr/img53.json"
   },
   {
-    "revision": "9d6cb9a00879a769b10c016c17385f5a",
+    "revision": "243e6da9a8d2ac12069570ba082676c5",
     "url": "/books/01/dr/img54.json"
   },
   {
-    "revision": "165167354a25012c16194ebaabcef1e7",
+    "revision": "07a62de5fa85923006bea8036e3db8b0",
     "url": "/books/01/dr/img55.json"
   },
   {
-    "revision": "e5f63d676d77f89eb4e2eb7446151548",
+    "revision": "9b5fd0027a07fc2c76c91db2c58b8fcf",
     "url": "/books/01/dr/img56.json"
   },
   {
-    "revision": "ecc67562371000c41b6b8a52921d6157",
+    "revision": "eb12678a2408c60ac6d2e18d472442a5",
     "url": "/books/01/dr/img57.json"
   },
   {
-    "revision": "7bc27c2bcf221f15eacacbbf427f0442",
+    "revision": "f59899ed82409fc98960b1203931868a",
     "url": "/books/01/dr/img58.json"
   },
   {
-    "revision": "3751b526c89d9c094a4bdea1f05a434f",
+    "revision": "489a25d74a21b7ab3ed130842a48126d",
     "url": "/books/01/dr/img59.json"
   },
   {
-    "revision": "cc5fd2c3ed36956a08351838f363bacc",
+    "revision": "a3c2c2ef31b2c5e2a205ea1d8ba0ec1c",
     "url": "/books/01/dr/img6.json"
   },
   {
-    "revision": "f683425bea048c5bfbd9a50642ff1252",
+    "revision": "40e668dee509f6bc35ad7f1789bcd67b",
     "url": "/books/01/dr/img60.json"
   },
   {
-    "revision": "1634b4499c3516dca96eb845090fab9e",
+    "revision": "743d45a0d9efcce55c8db72573d82e00",
     "url": "/books/01/dr/img61.json"
   },
   {
-    "revision": "d94e509482b587efd0ccf3f97f25e7d7",
+    "revision": "a0e92172360ec6630d2e9cb0161b2e3f",
     "url": "/books/01/dr/img62.json"
   },
   {
-    "revision": "3b5c03913c1e46edbce5d4239b73c380",
+    "revision": "5aed44631e5779cc6cf1013142d2554a",
     "url": "/books/01/dr/img63.json"
   },
   {
-    "revision": "4e7cf42731cc3d0491f4559a702edefb",
+    "revision": "6216ae47dfda36ac3d41fd7a534ea195",
     "url": "/books/01/dr/img64.json"
   },
   {
-    "revision": "de7cfa1a41c38b19269fb8ca2ac57278",
+    "revision": "92d98e367ca3e0063cde3a47f4c2c11b",
     "url": "/books/01/dr/img65.json"
   },
   {
-    "revision": "32697147003c11e15d0dc38a5f7aee1a",
+    "revision": "dabf122ea258bcd0f5da4b49a9776297",
     "url": "/books/01/dr/img66.json"
   },
   {
-    "revision": "a06378c6f72d24699a456207af2f140d",
+    "revision": "b843b8692e35a425334e7241a839e445",
     "url": "/books/01/dr/img67.json"
   },
   {
-    "revision": "d23c90e5c6f8eeb0e26cb4a0e4155da8",
+    "revision": "60c12ff4a4cb280cb7e9263df4908e8c",
     "url": "/books/01/dr/img68.json"
   },
   {
-    "revision": "6b3f174d5fa039478e9dde51c5d0071d",
+    "revision": "3227cbaeae66d3253ffd48b0c14a3f17",
     "url": "/books/01/dr/img69.json"
   },
   {
-    "revision": "59c60b709d608b92e9889b2b060e9760",
+    "revision": "c3a5ada640ec35cc1189c7321f4d4474",
     "url": "/books/01/dr/img7.json"
   },
   {
-    "revision": "14f27d5ef52d56a4f739df48f766be87",
+    "revision": "9f145d0f2aed842e752d3629b99ffa9c",
     "url": "/books/01/dr/img70.json"
   },
   {
-    "revision": "caf89fe9d1bca20c495a7df45df3f10f",
+    "revision": "a8fea6e5b9cdc9cf66c357ef18fb61c4",
     "url": "/books/01/dr/img71.json"
   },
   {
-    "revision": "7db4d736588dbe3827af59e9a6b00b71",
+    "revision": "9d4ccfebd4f465ca54480101d15d4121",
     "url": "/books/01/dr/img72.json"
   },
   {
-    "revision": "83a4d3903b9b03fc34e8cb467a921179",
+    "revision": "8d1f16135d8da8cb64d595e269be4c3a",
     "url": "/books/01/dr/img73.json"
   },
   {
-    "revision": "aebadc5e17ae00978c0cccf5164e07fe",
+    "revision": "d6316a2f9909f70b9156b746113702f8",
     "url": "/books/01/dr/img74.json"
   },
   {
-    "revision": "d2c8e25a46a618670036278475eac299",
+    "revision": "a2df291f6342633cb03fb0f78a1d8221",
     "url": "/books/01/dr/img75.json"
   },
   {
-    "revision": "143d6af469cb945c997f0e17d2861c87",
+    "revision": "eae14601a10b7e3a4e607e04fcf962d3",
     "url": "/books/01/dr/img76.json"
   },
   {
-    "revision": "24cb2f387ac54a7c8f2679ab6b44b483",
+    "revision": "4c761852f1bc4cc38bd06812b7dedb7b",
     "url": "/books/01/dr/img77.json"
   },
   {
-    "revision": "aae8cdd239903298c93e6613256fc7d1",
+    "revision": "5aa806624c9d475a2f8407291f0bc7e6",
     "url": "/books/01/dr/img78.json"
   },
   {
-    "revision": "3ff310cb6d4cb84c11f69d5705798c54",
+    "revision": "4aa754c98b9e270a2b1052cd1e44068f",
     "url": "/books/01/dr/img79.json"
   },
   {
-    "revision": "6cfa9e771310d2caa484ef58c7b3f141",
+    "revision": "f1dd9708d5f0754db384a7c559706e8d",
     "url": "/books/01/dr/img8.json"
   },
   {
-    "revision": "c470005379783cf466170dcdc930680a",
+    "revision": "13e3b2724e8e5960444c150cc09bc65b",
     "url": "/books/01/dr/img80.json"
   },
   {
-    "revision": "4b94e43f791876d284b7efce12389ecf",
+    "revision": "83411e8c6d69cffb1da58bab89c5c646",
     "url": "/books/01/dr/img81.json"
   },
   {
-    "revision": "8213fd3ae525ba1ef6012a289e72ebab",
+    "revision": "b108b5938eebf7cd626106deb9e26687",
     "url": "/books/01/dr/img82.json"
   },
   {
-    "revision": "c6bbab32e343a5baacb49eafda3b0537",
+    "revision": "2832d6018942c3e0a9f122ec4869bf75",
     "url": "/books/01/dr/img83.json"
   },
   {
-    "revision": "6f8a0f44ed8c93a46d3d44a21abf6239",
+    "revision": "4c3beb8c00387adb6e674e2b42d79748",
     "url": "/books/01/dr/img84.json"
   },
   {
-    "revision": "a555b735d48d14f3cdc703a7403f8d93",
+    "revision": "42380be84c073b211949d5ebd6d945bf",
     "url": "/books/01/dr/img85.json"
   },
   {
-    "revision": "28e16f2fc946a45199a5ae41537149b3",
+    "revision": "dc96ad731a8f0a8b304e3d5fd7336b66",
     "url": "/books/01/dr/img86.json"
   },
   {
-    "revision": "8c35ca9e33463661dea712838ac1ef9f",
+    "revision": "0746af8d35c59a51f682baa0014b54a8",
     "url": "/books/01/dr/img87.json"
   },
   {
-    "revision": "a19bf0c9a80443a6c62d39bfc4247be9",
+    "revision": "25c703940dfd817215a576e3ea85c091",
     "url": "/books/01/dr/img88.json"
   },
   {
-    "revision": "4faec219cfc512b3682ecb45edfc9a7e",
+    "revision": "20da86608113773ffc0f4fa4888dacd7",
     "url": "/books/01/dr/img89.json"
   },
   {
-    "revision": "1339fc95149cd6706c93e25f0155fdc6",
+    "revision": "385393246bb594985b18a7fb17fec4ca",
     "url": "/books/01/dr/img9.json"
   },
   {
-    "revision": "e926fd0979023f86425dfe9770afca96",
+    "revision": "1a8802d91b947618e585e0eb911ff45d",
     "url": "/books/01/dr/img90.json"
   },
   {
-    "revision": "1cdfd165e96ea4080ec967e23c554d49",
+    "revision": "302f0dbdd62d84f42c351f9de67fa2e0",
     "url": "/books/01/dr/img91.json"
   },
   {
-    "revision": "04b1a2f10003283f44c7e1dd704c1147",
+    "revision": "0e4d7aef88ac9b94bf01c1b0f5fd72b6",
     "url": "/books/01/dr/img92.json"
   },
   {
-    "revision": "9b305ce5a80bd69554a61b16b0a9c08b",
+    "revision": "b168f7dd94886eefc41471efbd0343b5",
     "url": "/books/01/dr/img93.json"
   },
   {
-    "revision": "08f0f330dc5c5bb8382ccdb10293acd2",
+    "revision": "63f296ede9aeedbe2e2e2ee4f7cee184",
     "url": "/books/01/dr/imgmd.json"
   },
   {
-    "revision": "fbca620fabe9799c888eefcaa8794b4b",
+    "revision": "4d96aa587a679ac450231466f786d9e3",
     "url": "/books/01/goodbye.html"
   },
   {
-    "revision": "d688b78e81b5f2229b9b8ed8b30a51a5",
+    "revision": "5de111255c2436c5c2181bf68d5c1cf8",
     "url": "/books/01/index.html"
   },
   {
@@ -3296,35 +3296,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/assets/css/start/images/ui-icons_fcd113_256x240.png"
   },
   {
-    "revision": "d7ebb26583b03bfabb7645c410fe09a3",
+    "revision": "cbbf356e46f71482afa07ae0952329a2",
     "url": "/books/02/assets/css/start/jquery-ui-1.11.4.custom.css"
   },
   {
-    "revision": "2fc9ad253699c91323be75477fa50cd2",
+    "revision": "25e91525d7a8474f28dd158a9ca2474f",
     "url": "/books/02/assets/css/start/jquery-ui-1.11.4.custom.min.css"
   },
   {
-    "revision": "d020ba8f4a3af16d6069e52f793bac75",
+    "revision": "b275ec9523c74b4f5b9f43c1f2becee5",
     "url": "/books/02/assets/htmlimages/360_slide_OFF_Click.svg"
   },
   {
-    "revision": "8e21d48a815de2cd4de94c12a5a0d7a7",
+    "revision": "af01fc7ca77557b0567d881edf1b8ad9",
     "url": "/books/02/assets/htmlimages/360_slide_OFF_Hover.svg"
   },
   {
-    "revision": "b3e6c93a7f65b6f2d6854ae50fb64c46",
+    "revision": "9c6539216c4d44d32d0db7e293559ab6",
     "url": "/books/02/assets/htmlimages/360_slide_OFF_Normal.svg"
   },
   {
-    "revision": "3584ca37ca8abe14a463fbca2e351b7b",
+    "revision": "d0ad6752330677442ec4a3c6c8cc1bf1",
     "url": "/books/02/assets/htmlimages/360_slide_ON_Click.svg"
   },
   {
-    "revision": "e38ef68865e28bc9454ebefe161ced09",
+    "revision": "073854b6275706fd0ef4bd54ad666d6d",
     "url": "/books/02/assets/htmlimages/360_slide_ON_Hover.svg"
   },
   {
-    "revision": "42efc40544dff145a10a8fa1a96496de",
+    "revision": "05ff19f30397a8955ffdbd20e47bb159",
     "url": "/books/02/assets/htmlimages/360_slide_ON_normal.svg"
   },
   {
@@ -3416,7 +3416,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/assets/htmlimages/Play_icon.png"
   },
   {
-    "revision": "82ec958a873d324250b1f428e0a30ebd",
+    "revision": "7a234455e394a5a1932786e360c92381",
     "url": "/books/02/assets/htmlimages/ThreeD_Close.svg"
   },
   {
@@ -3428,11 +3428,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/assets/htmlimages/ThreeD_HotspotGlow.png"
   },
   {
-    "revision": "c3604d5ec2fd2bbec6a5e5f20ff56ce9",
+    "revision": "e2ab288c722b32269370e2232d1cae60",
     "url": "/books/02/assets/htmlimages/ThreeD_Pause.svg"
   },
   {
-    "revision": "b30a60e86ccb5e5d04088f1791ab3b60",
+    "revision": "a8d5165bb092b1addf35e95fc0a8cc91",
     "url": "/books/02/assets/htmlimages/ThreeD_Play.svg"
   },
   {
@@ -3536,7 +3536,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/assets/htmlimages/assessmenthotspotvisited.png"
   },
   {
-    "revision": "762e25285eb83c56c9c9397df230e419",
+    "revision": "a755bbc66810b5dd3da18484e58fb8bd",
     "url": "/books/02/assets/htmlimages/assessmenthotspotvisited.svg"
   },
   {
@@ -3768,15 +3768,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/assets/htmlimages/vidvolumemute.png"
   },
   {
-    "revision": "4b7e7f00d1484325028efa06245e2b43",
+    "revision": "fc94540f0c5f0b7262c6a2a61a86fcdc",
     "url": "/books/02/assets/js/CPM.js"
   },
   {
-    "revision": "75ba4a1710cbeda9fe81f76c10b643fe",
+    "revision": "5d6619486ce39205beb79bfe8979e751",
     "url": "/books/02/assets/js/CPXHRLoader.js"
   },
   {
-    "revision": "378087a64e1394fc51f300bb9c11878c",
+    "revision": "a09e13ee94d51c524b7e2a728c7d4039",
     "url": "/books/02/assets/js/jquery-3.3.1.min.js"
   },
   {
@@ -4092,307 +4092,307 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/02/dr/733237.gif"
   },
   {
-    "revision": "82a93ebd4bc2d68921f87d82df785383",
+    "revision": "8f12174fe84120a092daf79864943795",
     "url": "/books/02/dr/img1.json"
   },
   {
-    "revision": "6977122f5b9fec7b97000cd98050e2e9",
+    "revision": "c7b6b0bc9e993a82fdf629ad73847e2b",
     "url": "/books/02/dr/img10.json"
   },
   {
-    "revision": "0e199b2ff5459795885bbe14eaf139fb",
+    "revision": "d2dadf53458a8fcda16382981a0810aa",
     "url": "/books/02/dr/img11.json"
   },
   {
-    "revision": "d727e6519ac6a2dd7d7500f248606c1f",
+    "revision": "f18b3d02225d0a56048ad6d946a1ba01",
     "url": "/books/02/dr/img12.json"
   },
   {
-    "revision": "74db2266008d20e148fcc039ffddac04",
+    "revision": "69eeb3f74f5dedf9c327f8e524960136",
     "url": "/books/02/dr/img13.json"
   },
   {
-    "revision": "1cd68513b85600f4ac028ca31c3a1b5b",
+    "revision": "29d5834a8ef3e49f3ca591abdddd6595",
     "url": "/books/02/dr/img14.json"
   },
   {
-    "revision": "7fb59e6df462d5d258b9388acecaed17",
+    "revision": "a4685c65fad7e6ef000ac3de24a3140f",
     "url": "/books/02/dr/img15.json"
   },
   {
-    "revision": "90ce223f30458c0b0af66c0ffb2038a8",
+    "revision": "90c27e31afda6e93271a7f3edbcf6ec3",
     "url": "/books/02/dr/img16.json"
   },
   {
-    "revision": "ed621eef23e11d1d9a00794360e6a697",
+    "revision": "429e304f98554e1ef3a62343ed82a7de",
     "url": "/books/02/dr/img17.json"
   },
   {
-    "revision": "4fa2ebdb5d91a3e12ca5d63b28436c9a",
+    "revision": "04d5c348187bcfcf5fce4b6c3ca70d0d",
     "url": "/books/02/dr/img18.json"
   },
   {
-    "revision": "558d7a0b6f3f560974336456987880e0",
+    "revision": "aca5c5725df951cae5bc2f214a4b4fdc",
     "url": "/books/02/dr/img19.json"
   },
   {
-    "revision": "e3d863f408f6ad9cd22b626aeb79d0d2",
+    "revision": "3e510836e697abefb8a2572ec636f9f3",
     "url": "/books/02/dr/img2.json"
   },
   {
-    "revision": "41fdbb81cf1e9e0d791a3bbe8e74826e",
+    "revision": "cc49bf4f12ccab0137e82c6ebf231b26",
     "url": "/books/02/dr/img20.json"
   },
   {
-    "revision": "cba7d22b21e5f20ba21c8288e656244c",
+    "revision": "d170f3311573651457c78de6ce1b0369",
     "url": "/books/02/dr/img21.json"
   },
   {
-    "revision": "452a51f8f10ec1b85cd61cda53b9deb2",
+    "revision": "0cefcc745a9ac4fb0c5f91dec7a5034c",
     "url": "/books/02/dr/img22.json"
   },
   {
-    "revision": "0d4db2749e7357db4d1d98dd647fce2e",
+    "revision": "7b3ca73e5cc8cbbfaa97d0d1b0253615",
     "url": "/books/02/dr/img23.json"
   },
   {
-    "revision": "414a9edbbaefc2f7704cf0a314d5fe21",
+    "revision": "ce36cfdc0d6f1541fa774c9dbdc97e30",
     "url": "/books/02/dr/img24.json"
   },
   {
-    "revision": "8dcccf886c0dc13cd39daf43690aa050",
+    "revision": "f679725da369fde2169f4b67bbad1dd6",
     "url": "/books/02/dr/img25.json"
   },
   {
-    "revision": "6ef42acc56618f63c9b22bca05072560",
+    "revision": "ad8738c346649d0dbff92b5b18844ea5",
     "url": "/books/02/dr/img26.json"
   },
   {
-    "revision": "92ee850a59fc73842583791ea273b460",
+    "revision": "cb10dc9815df7f1cfb410cb78108b957",
     "url": "/books/02/dr/img27.json"
   },
   {
-    "revision": "a4d77c8d20a07275842600a4ee6b119d",
+    "revision": "e22e97612a2ef8564063e15deb09befc",
     "url": "/books/02/dr/img28.json"
   },
   {
-    "revision": "3961fdfd4eb48b2299823b199fe77570",
+    "revision": "1a8a510e2cfc6f0a6f5d4b686a385250",
     "url": "/books/02/dr/img29.json"
   },
   {
-    "revision": "eb41177dc1d6321e1d1a99e103b277ea",
+    "revision": "c79079b134aa523885341917fa17e46e",
     "url": "/books/02/dr/img3.json"
   },
   {
-    "revision": "9b52a244eb27e5e13127d224ade6d332",
+    "revision": "779b78fadc7c061522094468ce9f5c5c",
     "url": "/books/02/dr/img30.json"
   },
   {
-    "revision": "e6a1689e98fd9a99d5a7de64fbb7ac7d",
+    "revision": "166de51d574ae130db2389c0f8ba37c5",
     "url": "/books/02/dr/img31.json"
   },
   {
-    "revision": "17545a4cea03adc5a162749ce6d226f9",
+    "revision": "fc4a864920a8229153b206f14781f675",
     "url": "/books/02/dr/img32.json"
   },
   {
-    "revision": "9953b27020d083786bc52844b91f4353",
+    "revision": "8bf41239cfc5a1c4b6a0c605f8f276fe",
     "url": "/books/02/dr/img33.json"
   },
   {
-    "revision": "593a5366327d43aee12177f5d115461d",
+    "revision": "7664133266596dfbd6c6dfc1ee83a582",
     "url": "/books/02/dr/img34.json"
   },
   {
-    "revision": "956d7c1621679b1fb1a02116f28e8eec",
+    "revision": "a464f1ac4b61fffbdde974c433f4f1c3",
     "url": "/books/02/dr/img35.json"
   },
   {
-    "revision": "65d1539cca425f39df805387fb46cc22",
+    "revision": "0cd231f4c142c69b86cf824a1c6fac6b",
     "url": "/books/02/dr/img36.json"
   },
   {
-    "revision": "d3bbead7e5cbd508f6e5ae6f9e43ac6b",
+    "revision": "b06be6a25c6d041d1ac118627f1c985f",
     "url": "/books/02/dr/img37.json"
   },
   {
-    "revision": "da868ff9f5546102590b8e0f79152bcd",
+    "revision": "1cfb972b3e6c1ccffae1224712a08783",
     "url": "/books/02/dr/img38.json"
   },
   {
-    "revision": "1a16604cf61293004b6dc4d5ea89638a",
+    "revision": "bef30a357930f23fa9a2d7c9b4260b0d",
     "url": "/books/02/dr/img39.json"
   },
   {
-    "revision": "d8ffb2e5ab4f66ad58d95eccdc63b243",
+    "revision": "c96aa2d312855c85e23f79e4bc2aa74f",
     "url": "/books/02/dr/img4.json"
   },
   {
-    "revision": "d81ac553495362d2895e70225104520f",
+    "revision": "ae3074701914ddbd133a6908cdd0045e",
     "url": "/books/02/dr/img40.json"
   },
   {
-    "revision": "6e9f7417a24cddf24ec618d82aba0088",
+    "revision": "a56391502726e308082fe7528ecb582d",
     "url": "/books/02/dr/img41.json"
   },
   {
-    "revision": "18820b79f3be3cf37aaa08341050ee1c",
+    "revision": "8223091d6e722199a6232a2a185e0259",
     "url": "/books/02/dr/img42.json"
   },
   {
-    "revision": "e1a1b11896f08c0110fbca7fd4bb4de3",
+    "revision": "543ec571abdaa4747915060983f228e2",
     "url": "/books/02/dr/img43.json"
   },
   {
-    "revision": "9d932dedfefeb121b28fecac391fb92c",
+    "revision": "233d49f543732eb8b67a2be88a72feb8",
     "url": "/books/02/dr/img44.json"
   },
   {
-    "revision": "09252dd960c60870c64b4758a5dd7bac",
+    "revision": "7ae23134f320808c69796c8fc26f49c7",
     "url": "/books/02/dr/img45.json"
   },
   {
-    "revision": "7b729829917be067f254da31576f070f",
+    "revision": "a46f009af0e12466222bbf5235548803",
     "url": "/books/02/dr/img46.json"
   },
   {
-    "revision": "ac5194e0f07d01624a46c0a26bf50835",
+    "revision": "551e4810985d20c5be0d3416ccef3fc8",
     "url": "/books/02/dr/img47.json"
   },
   {
-    "revision": "9ef46396a84f91af4c00cfe172f64e99",
+    "revision": "a1d0ac5428901e15c3576e184599a313",
     "url": "/books/02/dr/img48.json"
   },
   {
-    "revision": "97fb65c0f433e81750de750ebee23b98",
+    "revision": "de1015d39ebc714082efbf7c4db00fcb",
     "url": "/books/02/dr/img49.json"
   },
   {
-    "revision": "00a33dcdd271d621a68b8c00ea0dc294",
+    "revision": "0507b6afa8920a1d54e4874a02449b1d",
     "url": "/books/02/dr/img5.json"
   },
   {
-    "revision": "385b1596d56a39712756bb369f2155ae",
+    "revision": "7bf767be9ebfe8746f0066b978ff780a",
     "url": "/books/02/dr/img50.json"
   },
   {
-    "revision": "9cca7eaf88dee8df48fc5808caa15ccf",
+    "revision": "0d8e1394376f46ef711a32202536809f",
     "url": "/books/02/dr/img51.json"
   },
   {
-    "revision": "8fc37f80f55654cc73bdff0bbec5fe51",
+    "revision": "03f06dcf8a5385d41ef0aacafbb6cffc",
     "url": "/books/02/dr/img52.json"
   },
   {
-    "revision": "3754b1952857d6b92fd3d72f514e8b93",
+    "revision": "83fd42b3561b085e959d108e35c7c97f",
     "url": "/books/02/dr/img53.json"
   },
   {
-    "revision": "14528a27ab7bee696ff8196027d11628",
+    "revision": "b621c773b1562e573775c0b819281f5d",
     "url": "/books/02/dr/img54.json"
   },
   {
-    "revision": "845bbe0feadcd8de49dd20168e076248",
+    "revision": "1a211d6085efe4c34f3051d79bc2c6de",
     "url": "/books/02/dr/img55.json"
   },
   {
-    "revision": "243aaa420df419ed4c21bd9bfb47232d",
+    "revision": "0fa75d66ce0aa27e43e9879c97ffee04",
     "url": "/books/02/dr/img56.json"
   },
   {
-    "revision": "33597d5e2c64ed0ad86f75f98621343e",
+    "revision": "1a888c45443535984f7ae877510c21a8",
     "url": "/books/02/dr/img57.json"
   },
   {
-    "revision": "8681d8d723385577ef1ec4e2da38b1a2",
+    "revision": "c33b15a1f3a24aa33b2fe2db988a99dc",
     "url": "/books/02/dr/img58.json"
   },
   {
-    "revision": "be46319ee918c5bee728b2cbf6624ac3",
+    "revision": "1bf86e702c1b4415f35b4ab375de4af3",
     "url": "/books/02/dr/img59.json"
   },
   {
-    "revision": "cc5fd2c3ed36956a08351838f363bacc",
+    "revision": "a3c2c2ef31b2c5e2a205ea1d8ba0ec1c",
     "url": "/books/02/dr/img6.json"
   },
   {
-    "revision": "267d8e7a4dfbcc05926f8774183e62cf",
+    "revision": "c42807752f5eae54e00b50fc1a55df28",
     "url": "/books/02/dr/img60.json"
   },
   {
-    "revision": "82e524c3a7d567ae8a13f09ea3fbdbb6",
+    "revision": "7b503c8440cfa412a61961c1d6c0ab7a",
     "url": "/books/02/dr/img61.json"
   },
   {
-    "revision": "7657b6ac278458c0f12987f568b5e02d",
+    "revision": "31e376581759154cf7045c966535db9d",
     "url": "/books/02/dr/img62.json"
   },
   {
-    "revision": "040024156911797aa9e3e0d08c8239d4",
+    "revision": "b7c363f7d6dd557261c1222c6b164cde",
     "url": "/books/02/dr/img63.json"
   },
   {
-    "revision": "59cce5e7b0cd59e1f900a9fc581f0136",
+    "revision": "cac3a79f07594932c24fa7e9ae667751",
     "url": "/books/02/dr/img64.json"
   },
   {
-    "revision": "930c23763f1f7d5ead8c03ab0e5225f7",
+    "revision": "85de8651685910a6a324c84b4c8ee708",
     "url": "/books/02/dr/img65.json"
   },
   {
-    "revision": "d43def800ff1617b716fcc29bd41f3aa",
+    "revision": "a1a7229b3daf77f981f0c77c528c860f",
     "url": "/books/02/dr/img66.json"
   },
   {
-    "revision": "113793668ae2f9d5c67dc1a5b3c8ee0f",
+    "revision": "592776bf010a64185be080f97c10dffa",
     "url": "/books/02/dr/img67.json"
   },
   {
-    "revision": "86a8fb01dc9169e1110458a4b82b2f1a",
+    "revision": "8149fbdbecd8115205dc7024f53db3bf",
     "url": "/books/02/dr/img68.json"
   },
   {
-    "revision": "b9d7e7eae16bfc3f831b05105327569d",
+    "revision": "29f422f2c27e47a36c383c35b8a5b6b9",
     "url": "/books/02/dr/img69.json"
   },
   {
-    "revision": "a2edbf2026bf6f9d2461e0bb3aa7b205",
+    "revision": "4ea86299986e45b7d99dc8306e78bb03",
     "url": "/books/02/dr/img7.json"
   },
   {
-    "revision": "d3b1db1993a91615a1b03cb68be228cf",
+    "revision": "3ee7918fae8732fa88aef12cd139f428",
     "url": "/books/02/dr/img70.json"
   },
   {
-    "revision": "d2fb8f2213e22b37c3802fd4b8736e91",
+    "revision": "33d350ce9b0217e6f32b4367ceb0c5f8",
     "url": "/books/02/dr/img71.json"
   },
   {
-    "revision": "6c694bc043b5594da75f386da5f6f162",
+    "revision": "3682eeb41f18bd2e0ba0e45a019659bb",
     "url": "/books/02/dr/img72.json"
   },
   {
-    "revision": "354f8f40bce8fe1b09fe315b53046023",
+    "revision": "250c13bd0e18f6f5e2d1ab356ac35e64",
     "url": "/books/02/dr/img73.json"
   },
   {
-    "revision": "14838a51f5e8c22f2ce212f4b14ae805",
+    "revision": "f34230cfdc2a24f64224274b73ef3856",
     "url": "/books/02/dr/img8.json"
   },
   {
-    "revision": "1339fc95149cd6706c93e25f0155fdc6",
+    "revision": "385393246bb594985b18a7fb17fec4ca",
     "url": "/books/02/dr/img9.json"
   },
   {
-    "revision": "91837c0c0d9db6226a4af0c4a55e2633",
+    "revision": "6b71ca7fab382fd3642e03458ded9dfb",
     "url": "/books/02/dr/imgmd.json"
   },
   {
-    "revision": "fbca620fabe9799c888eefcaa8794b4b",
+    "revision": "4d96aa587a679ac450231466f786d9e3",
     "url": "/books/02/goodbye.html"
   },
   {
-    "revision": "ae6d62d75e1b471d79f9dd9c3ebd79fb",
+    "revision": "dadbd1c844d6176a5987e7c5c4ec9eee",
     "url": "/books/02/index.html"
   },
   {
@@ -5360,35 +5360,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/assets/css/start/images/ui-icons_fcd113_256x240.png"
   },
   {
-    "revision": "d7ebb26583b03bfabb7645c410fe09a3",
+    "revision": "cbbf356e46f71482afa07ae0952329a2",
     "url": "/books/04/assets/css/start/jquery-ui-1.11.4.custom.css"
   },
   {
-    "revision": "2fc9ad253699c91323be75477fa50cd2",
+    "revision": "25e91525d7a8474f28dd158a9ca2474f",
     "url": "/books/04/assets/css/start/jquery-ui-1.11.4.custom.min.css"
   },
   {
-    "revision": "d020ba8f4a3af16d6069e52f793bac75",
+    "revision": "b275ec9523c74b4f5b9f43c1f2becee5",
     "url": "/books/04/assets/htmlimages/360_slide_OFF_Click.svg"
   },
   {
-    "revision": "8e21d48a815de2cd4de94c12a5a0d7a7",
+    "revision": "af01fc7ca77557b0567d881edf1b8ad9",
     "url": "/books/04/assets/htmlimages/360_slide_OFF_Hover.svg"
   },
   {
-    "revision": "b3e6c93a7f65b6f2d6854ae50fb64c46",
+    "revision": "9c6539216c4d44d32d0db7e293559ab6",
     "url": "/books/04/assets/htmlimages/360_slide_OFF_Normal.svg"
   },
   {
-    "revision": "3584ca37ca8abe14a463fbca2e351b7b",
+    "revision": "d0ad6752330677442ec4a3c6c8cc1bf1",
     "url": "/books/04/assets/htmlimages/360_slide_ON_Click.svg"
   },
   {
-    "revision": "e38ef68865e28bc9454ebefe161ced09",
+    "revision": "073854b6275706fd0ef4bd54ad666d6d",
     "url": "/books/04/assets/htmlimages/360_slide_ON_Hover.svg"
   },
   {
-    "revision": "42efc40544dff145a10a8fa1a96496de",
+    "revision": "05ff19f30397a8955ffdbd20e47bb159",
     "url": "/books/04/assets/htmlimages/360_slide_ON_normal.svg"
   },
   {
@@ -5480,7 +5480,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/assets/htmlimages/Play_icon.png"
   },
   {
-    "revision": "82ec958a873d324250b1f428e0a30ebd",
+    "revision": "7a234455e394a5a1932786e360c92381",
     "url": "/books/04/assets/htmlimages/ThreeD_Close.svg"
   },
   {
@@ -5492,11 +5492,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/assets/htmlimages/ThreeD_HotspotGlow.png"
   },
   {
-    "revision": "c3604d5ec2fd2bbec6a5e5f20ff56ce9",
+    "revision": "e2ab288c722b32269370e2232d1cae60",
     "url": "/books/04/assets/htmlimages/ThreeD_Pause.svg"
   },
   {
-    "revision": "b30a60e86ccb5e5d04088f1791ab3b60",
+    "revision": "a8d5165bb092b1addf35e95fc0a8cc91",
     "url": "/books/04/assets/htmlimages/ThreeD_Play.svg"
   },
   {
@@ -5600,7 +5600,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/assets/htmlimages/assessmenthotspotvisited.png"
   },
   {
-    "revision": "762e25285eb83c56c9c9397df230e419",
+    "revision": "a755bbc66810b5dd3da18484e58fb8bd",
     "url": "/books/04/assets/htmlimages/assessmenthotspotvisited.svg"
   },
   {
@@ -5832,15 +5832,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/assets/htmlimages/vidvolumemute.png"
   },
   {
-    "revision": "e4be925c009d1b0c09d18086f1186ed6",
+    "revision": "37ceafee47ccda8913a13f22271adfb8",
     "url": "/books/04/assets/js/CPM.js"
   },
   {
-    "revision": "75ba4a1710cbeda9fe81f76c10b643fe",
+    "revision": "5d6619486ce39205beb79bfe8979e751",
     "url": "/books/04/assets/js/CPXHRLoader.js"
   },
   {
-    "revision": "378087a64e1394fc51f300bb9c11878c",
+    "revision": "a09e13ee94d51c524b7e2a728c7d4039",
     "url": "/books/04/assets/js/jquery-3.3.1.min.js"
   },
   {
@@ -6284,383 +6284,383 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/04/dr/431797.gif"
   },
   {
-    "revision": "82a93ebd4bc2d68921f87d82df785383",
+    "revision": "8f12174fe84120a092daf79864943795",
     "url": "/books/04/dr/img1.json"
   },
   {
-    "revision": "6977122f5b9fec7b97000cd98050e2e9",
+    "revision": "c7b6b0bc9e993a82fdf629ad73847e2b",
     "url": "/books/04/dr/img10.json"
   },
   {
-    "revision": "0e199b2ff5459795885bbe14eaf139fb",
+    "revision": "d2dadf53458a8fcda16382981a0810aa",
     "url": "/books/04/dr/img11.json"
   },
   {
-    "revision": "d727e6519ac6a2dd7d7500f248606c1f",
+    "revision": "f18b3d02225d0a56048ad6d946a1ba01",
     "url": "/books/04/dr/img12.json"
   },
   {
-    "revision": "6a00a0080664e4ae30950b57f6c453e3",
+    "revision": "d386953075676c3530f20a1caa1d2b66",
     "url": "/books/04/dr/img13.json"
   },
   {
-    "revision": "179d5410bdd20c7300940f69d3de26b5",
+    "revision": "1fe5e2d6bcf4972ecf809d9d382e06ea",
     "url": "/books/04/dr/img14.json"
   },
   {
-    "revision": "55cde542b89546245afbff03dbd0395c",
+    "revision": "a1092c198217a5cab29f19965b417062",
     "url": "/books/04/dr/img15.json"
   },
   {
-    "revision": "71675b1e87e5e66c41d2c167ce6192fc",
+    "revision": "13252f27b9a7cee5123656bf5c5d6f9e",
     "url": "/books/04/dr/img16.json"
   },
   {
-    "revision": "aca87bc258e9d2fad37128697fefd89c",
+    "revision": "b3426d9f2e8be08136b81663f5f245cf",
     "url": "/books/04/dr/img17.json"
   },
   {
-    "revision": "3d1d91df65e6f3b407cb44140f08c61e",
+    "revision": "3c083cbead1d87496781f476e974be94",
     "url": "/books/04/dr/img18.json"
   },
   {
-    "revision": "3632875d780cdaa2001db2a98f7b4c45",
+    "revision": "e1cd1a8028ec376c1e094f6c4f129a7b",
     "url": "/books/04/dr/img19.json"
   },
   {
-    "revision": "ad3509d9065f8384b1f0ae37ae63c4b4",
+    "revision": "0b3c47a9c10538289096288ec924fcd6",
     "url": "/books/04/dr/img2.json"
   },
   {
-    "revision": "b4d1163a70c0b2fa8a4543d112889c86",
+    "revision": "db3984bf75488d618432ba0f33c3c6d0",
     "url": "/books/04/dr/img20.json"
   },
   {
-    "revision": "407c0687297689f38de6108de3bf03a0",
+    "revision": "3946c87e98eb1ad3c1fd42a0bb125b1d",
     "url": "/books/04/dr/img21.json"
   },
   {
-    "revision": "c6cb5c1b1d316531a305cd7cce0242e5",
+    "revision": "f9304b26de3b4bf2f598cdbf21cf242a",
     "url": "/books/04/dr/img22.json"
   },
   {
-    "revision": "205926407d700588572170735efa881d",
+    "revision": "4aa5f5d6c432955a3bcedaee27dc3d99",
     "url": "/books/04/dr/img23.json"
   },
   {
-    "revision": "5a6cf281d7ef0c97f4b5111b9984f2f9",
+    "revision": "1b2e315a8e9de9332cb87183616e49d2",
     "url": "/books/04/dr/img24.json"
   },
   {
-    "revision": "6c4e0861c8b69802a777c79373f7e74e",
+    "revision": "3f9a0be66692f5668a1a1e4c1fdf6976",
     "url": "/books/04/dr/img25.json"
   },
   {
-    "revision": "234bd6058bfae76c432e983e342de61c",
+    "revision": "3dce861b31eee157c2251a9a3b96c0af",
     "url": "/books/04/dr/img26.json"
   },
   {
-    "revision": "b3f6f2d17c4549bf3ac4f78491bfac99",
+    "revision": "544166d1c78feaa79fd119639be72af1",
     "url": "/books/04/dr/img27.json"
   },
   {
-    "revision": "584dbad86c90f828495d118e23cd6c10",
+    "revision": "4aafd431472628903c76eadeef670a33",
     "url": "/books/04/dr/img28.json"
   },
   {
-    "revision": "9b9f655eefc779c7d59f04c4c63eb7f3",
+    "revision": "9e7a90fc5734e851805ce937831d8272",
     "url": "/books/04/dr/img29.json"
   },
   {
-    "revision": "eb41177dc1d6321e1d1a99e103b277ea",
+    "revision": "c79079b134aa523885341917fa17e46e",
     "url": "/books/04/dr/img3.json"
   },
   {
-    "revision": "915eaa03db84d193cbbd1820d4827a5e",
+    "revision": "2521720ba9765fb9c54a869c9d00cc20",
     "url": "/books/04/dr/img30.json"
   },
   {
-    "revision": "4521c3a5ba66262094d5b1a75dbd01db",
+    "revision": "574a1f135c94c99b5fb034150f1abc63",
     "url": "/books/04/dr/img31.json"
   },
   {
-    "revision": "faa212ce92f26a481618d266186f7e74",
+    "revision": "4236686dd7191963dfa1e365438505aa",
     "url": "/books/04/dr/img32.json"
   },
   {
-    "revision": "2df33a3e1baadce4743e6114dec955f5",
+    "revision": "0ece0449cbbd72fa30b55c671caecbaf",
     "url": "/books/04/dr/img33.json"
   },
   {
-    "revision": "6f58fa56da2e110609169e99f9ee7ea4",
+    "revision": "b6e19bae73d6e4818ead602d30d94308",
     "url": "/books/04/dr/img34.json"
   },
   {
-    "revision": "c558cb1596cc11781f27fa79d378734f",
+    "revision": "a27882b37d883885fd1c0e5fd106840d",
     "url": "/books/04/dr/img35.json"
   },
   {
-    "revision": "23ebb33b70c57735541efcaba8cf6922",
+    "revision": "b103f2ff999961946d42fd12b99f0b69",
     "url": "/books/04/dr/img36.json"
   },
   {
-    "revision": "d14dfe9af3b74e3b49e9f6f1b941af55",
+    "revision": "dfdafe8adbf45ee72d049f47530c078c",
     "url": "/books/04/dr/img37.json"
   },
   {
-    "revision": "4afd0f0f07ab7c0ed27041406bf088c2",
+    "revision": "f91c7826bcf575dea1c01941c090f6f8",
     "url": "/books/04/dr/img38.json"
   },
   {
-    "revision": "10b4ad7a2955d995691a54720fa46ea6",
+    "revision": "e54e6521568745923e675c6a1f0cafd7",
     "url": "/books/04/dr/img39.json"
   },
   {
-    "revision": "d8ffb2e5ab4f66ad58d95eccdc63b243",
+    "revision": "c96aa2d312855c85e23f79e4bc2aa74f",
     "url": "/books/04/dr/img4.json"
   },
   {
-    "revision": "b2cb40a2ee8b336d27def6a0b20ed61f",
+    "revision": "f2f4cf86d5eecfd58304c0e259b4f984",
     "url": "/books/04/dr/img40.json"
   },
   {
-    "revision": "22ef2b952d46e3695630bbeb2d8f5e26",
+    "revision": "b430ed87369a7db43941cd4efa1c8162",
     "url": "/books/04/dr/img41.json"
   },
   {
-    "revision": "720417a74b92f6455ea7d55ecf60c084",
+    "revision": "d8c1497b62bd78c69c6af659de67ccee",
     "url": "/books/04/dr/img42.json"
   },
   {
-    "revision": "140247ff33c7ac40fe671da2de2b5031",
+    "revision": "c02b83c13745f571dda97e43f234f3cf",
     "url": "/books/04/dr/img43.json"
   },
   {
-    "revision": "c5d714f022a46d3f8f3b2275e9053cf3",
+    "revision": "c23a70dec609b3c1ff9f23dda59a3037",
     "url": "/books/04/dr/img44.json"
   },
   {
-    "revision": "4cea3ba3d967fc6daa4dce6e51045b9b",
+    "revision": "88a57843de07d07f7c8f4d6abe1ed421",
     "url": "/books/04/dr/img45.json"
   },
   {
-    "revision": "c7005345ce3353b7c7a69adf43e1b3a7",
+    "revision": "d49725136f1ed81e8dd22f90c5e3536f",
     "url": "/books/04/dr/img46.json"
   },
   {
-    "revision": "8d48dbf6acd89199a702b11b18bd177b",
+    "revision": "91e5a4350925b8094aea955d81e15ede",
     "url": "/books/04/dr/img47.json"
   },
   {
-    "revision": "9e66616d818d755aa8d1aee12bbd18ce",
+    "revision": "61761a97fc9b09640bbf6cfba8ea8c83",
     "url": "/books/04/dr/img48.json"
   },
   {
-    "revision": "35762087d907086e9c496d34c05d0c3e",
+    "revision": "3e422fd260de27253d8fb453f583acac",
     "url": "/books/04/dr/img49.json"
   },
   {
-    "revision": "d54db54d0f44c470a681c1087529d46f",
+    "revision": "3755736fded1ad79222d48991dd1b732",
     "url": "/books/04/dr/img5.json"
   },
   {
-    "revision": "92e9f8a7d78edf393542ee615147a0a0",
+    "revision": "4ae85c3aa8e18313f64da0c6db5ed50a",
     "url": "/books/04/dr/img50.json"
   },
   {
-    "revision": "fea4142fbdb22c79be35bc23b0f5e672",
+    "revision": "4c8d4cb23b7a6463881a41421a6febe6",
     "url": "/books/04/dr/img51.json"
   },
   {
-    "revision": "0eb578be85845302a0b5cdd659418a01",
+    "revision": "dd6859608c0a303515622e04517587b4",
     "url": "/books/04/dr/img52.json"
   },
   {
-    "revision": "900312d2ae4e62ae5f9047f0f5b6932c",
+    "revision": "209bb562df3e3fad20a86978acc7e3c5",
     "url": "/books/04/dr/img53.json"
   },
   {
-    "revision": "9d6cb9a00879a769b10c016c17385f5a",
+    "revision": "243e6da9a8d2ac12069570ba082676c5",
     "url": "/books/04/dr/img54.json"
   },
   {
-    "revision": "165167354a25012c16194ebaabcef1e7",
+    "revision": "07a62de5fa85923006bea8036e3db8b0",
     "url": "/books/04/dr/img55.json"
   },
   {
-    "revision": "e5f63d676d77f89eb4e2eb7446151548",
+    "revision": "9b5fd0027a07fc2c76c91db2c58b8fcf",
     "url": "/books/04/dr/img56.json"
   },
   {
-    "revision": "ecc67562371000c41b6b8a52921d6157",
+    "revision": "eb12678a2408c60ac6d2e18d472442a5",
     "url": "/books/04/dr/img57.json"
   },
   {
-    "revision": "7bc27c2bcf221f15eacacbbf427f0442",
+    "revision": "f59899ed82409fc98960b1203931868a",
     "url": "/books/04/dr/img58.json"
   },
   {
-    "revision": "3751b526c89d9c094a4bdea1f05a434f",
+    "revision": "489a25d74a21b7ab3ed130842a48126d",
     "url": "/books/04/dr/img59.json"
   },
   {
-    "revision": "cc5fd2c3ed36956a08351838f363bacc",
+    "revision": "a3c2c2ef31b2c5e2a205ea1d8ba0ec1c",
     "url": "/books/04/dr/img6.json"
   },
   {
-    "revision": "f683425bea048c5bfbd9a50642ff1252",
+    "revision": "40e668dee509f6bc35ad7f1789bcd67b",
     "url": "/books/04/dr/img60.json"
   },
   {
-    "revision": "1634b4499c3516dca96eb845090fab9e",
+    "revision": "743d45a0d9efcce55c8db72573d82e00",
     "url": "/books/04/dr/img61.json"
   },
   {
-    "revision": "d94e509482b587efd0ccf3f97f25e7d7",
+    "revision": "a0e92172360ec6630d2e9cb0161b2e3f",
     "url": "/books/04/dr/img62.json"
   },
   {
-    "revision": "3b5c03913c1e46edbce5d4239b73c380",
+    "revision": "5aed44631e5779cc6cf1013142d2554a",
     "url": "/books/04/dr/img63.json"
   },
   {
-    "revision": "4e7cf42731cc3d0491f4559a702edefb",
+    "revision": "6216ae47dfda36ac3d41fd7a534ea195",
     "url": "/books/04/dr/img64.json"
   },
   {
-    "revision": "de7cfa1a41c38b19269fb8ca2ac57278",
+    "revision": "92d98e367ca3e0063cde3a47f4c2c11b",
     "url": "/books/04/dr/img65.json"
   },
   {
-    "revision": "32697147003c11e15d0dc38a5f7aee1a",
+    "revision": "dabf122ea258bcd0f5da4b49a9776297",
     "url": "/books/04/dr/img66.json"
   },
   {
-    "revision": "a06378c6f72d24699a456207af2f140d",
+    "revision": "b843b8692e35a425334e7241a839e445",
     "url": "/books/04/dr/img67.json"
   },
   {
-    "revision": "d23c90e5c6f8eeb0e26cb4a0e4155da8",
+    "revision": "60c12ff4a4cb280cb7e9263df4908e8c",
     "url": "/books/04/dr/img68.json"
   },
   {
-    "revision": "6b3f174d5fa039478e9dde51c5d0071d",
+    "revision": "3227cbaeae66d3253ffd48b0c14a3f17",
     "url": "/books/04/dr/img69.json"
   },
   {
-    "revision": "59c60b709d608b92e9889b2b060e9760",
+    "revision": "c3a5ada640ec35cc1189c7321f4d4474",
     "url": "/books/04/dr/img7.json"
   },
   {
-    "revision": "14f27d5ef52d56a4f739df48f766be87",
+    "revision": "9f145d0f2aed842e752d3629b99ffa9c",
     "url": "/books/04/dr/img70.json"
   },
   {
-    "revision": "caf89fe9d1bca20c495a7df45df3f10f",
+    "revision": "a8fea6e5b9cdc9cf66c357ef18fb61c4",
     "url": "/books/04/dr/img71.json"
   },
   {
-    "revision": "7db4d736588dbe3827af59e9a6b00b71",
+    "revision": "9d4ccfebd4f465ca54480101d15d4121",
     "url": "/books/04/dr/img72.json"
   },
   {
-    "revision": "83a4d3903b9b03fc34e8cb467a921179",
+    "revision": "8d1f16135d8da8cb64d595e269be4c3a",
     "url": "/books/04/dr/img73.json"
   },
   {
-    "revision": "aebadc5e17ae00978c0cccf5164e07fe",
+    "revision": "d6316a2f9909f70b9156b746113702f8",
     "url": "/books/04/dr/img74.json"
   },
   {
-    "revision": "d2c8e25a46a618670036278475eac299",
+    "revision": "a2df291f6342633cb03fb0f78a1d8221",
     "url": "/books/04/dr/img75.json"
   },
   {
-    "revision": "143d6af469cb945c997f0e17d2861c87",
+    "revision": "eae14601a10b7e3a4e607e04fcf962d3",
     "url": "/books/04/dr/img76.json"
   },
   {
-    "revision": "5105a206fd2c34eb94261b34e84a5790",
+    "revision": "05f6619902cee435f1f7474274eaad38",
     "url": "/books/04/dr/img77.json"
   },
   {
-    "revision": "aae8cdd239903298c93e6613256fc7d1",
+    "revision": "5aa806624c9d475a2f8407291f0bc7e6",
     "url": "/books/04/dr/img78.json"
   },
   {
-    "revision": "c38dea9e3a12eef476e91e12e7dc4e66",
+    "revision": "effa81995c29108f58f37b580db7e4ee",
     "url": "/books/04/dr/img79.json"
   },
   {
-    "revision": "d8af383c4375154a2e5f37a98e83262c",
+    "revision": "d15706923bb1d9c206577416f2afd4aa",
     "url": "/books/04/dr/img8.json"
   },
   {
-    "revision": "c470005379783cf466170dcdc930680a",
+    "revision": "13e3b2724e8e5960444c150cc09bc65b",
     "url": "/books/04/dr/img80.json"
   },
   {
-    "revision": "4b94e43f791876d284b7efce12389ecf",
+    "revision": "83411e8c6d69cffb1da58bab89c5c646",
     "url": "/books/04/dr/img81.json"
   },
   {
-    "revision": "8213fd3ae525ba1ef6012a289e72ebab",
+    "revision": "b108b5938eebf7cd626106deb9e26687",
     "url": "/books/04/dr/img82.json"
   },
   {
-    "revision": "c6bbab32e343a5baacb49eafda3b0537",
+    "revision": "2832d6018942c3e0a9f122ec4869bf75",
     "url": "/books/04/dr/img83.json"
   },
   {
-    "revision": "6f8a0f44ed8c93a46d3d44a21abf6239",
+    "revision": "4c3beb8c00387adb6e674e2b42d79748",
     "url": "/books/04/dr/img84.json"
   },
   {
-    "revision": "a555b735d48d14f3cdc703a7403f8d93",
+    "revision": "42380be84c073b211949d5ebd6d945bf",
     "url": "/books/04/dr/img85.json"
   },
   {
-    "revision": "28e16f2fc946a45199a5ae41537149b3",
+    "revision": "dc96ad731a8f0a8b304e3d5fd7336b66",
     "url": "/books/04/dr/img86.json"
   },
   {
-    "revision": "8c35ca9e33463661dea712838ac1ef9f",
+    "revision": "0746af8d35c59a51f682baa0014b54a8",
     "url": "/books/04/dr/img87.json"
   },
   {
-    "revision": "a19bf0c9a80443a6c62d39bfc4247be9",
+    "revision": "25c703940dfd817215a576e3ea85c091",
     "url": "/books/04/dr/img88.json"
   },
   {
-    "revision": "4faec219cfc512b3682ecb45edfc9a7e",
+    "revision": "20da86608113773ffc0f4fa4888dacd7",
     "url": "/books/04/dr/img89.json"
   },
   {
-    "revision": "1339fc95149cd6706c93e25f0155fdc6",
+    "revision": "385393246bb594985b18a7fb17fec4ca",
     "url": "/books/04/dr/img9.json"
   },
   {
-    "revision": "e926fd0979023f86425dfe9770afca96",
+    "revision": "1a8802d91b947618e585e0eb911ff45d",
     "url": "/books/04/dr/img90.json"
   },
   {
-    "revision": "5f63546a533bf2810d9f8cbdd50b2a57",
+    "revision": "a02311d6fe0401fef1e46a22878ab2c2",
     "url": "/books/04/dr/img91.json"
   },
   {
-    "revision": "c8280293cf7ef4151d13ee97fb1470cd",
+    "revision": "8f53239511cbc13abe829e1380e9f6b1",
     "url": "/books/04/dr/img92.json"
   },
   {
-    "revision": "2d14c106e9dc70933f9f826e27e66d88",
+    "revision": "a5d93409a49b3d0efb5b7830a816fc1f",
     "url": "/books/04/dr/imgmd.json"
   },
   {
-    "revision": "fbca620fabe9799c888eefcaa8794b4b",
+    "revision": "4d96aa587a679ac450231466f786d9e3",
     "url": "/books/04/goodbye.html"
   },
   {
-    "revision": "df5ac4f240ec14a241aa483fe23f0683",
+    "revision": "12318f11b6e7128578fcf1e4c5d7a2d3",
     "url": "/books/04/index.html"
   },
   {
@@ -7496,35 +7496,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/assets/css/start/images/ui-icons_fcd113_256x240.png"
   },
   {
-    "revision": "d7ebb26583b03bfabb7645c410fe09a3",
+    "revision": "cbbf356e46f71482afa07ae0952329a2",
     "url": "/books/05/assets/css/start/jquery-ui-1.11.4.custom.css"
   },
   {
-    "revision": "2fc9ad253699c91323be75477fa50cd2",
+    "revision": "25e91525d7a8474f28dd158a9ca2474f",
     "url": "/books/05/assets/css/start/jquery-ui-1.11.4.custom.min.css"
   },
   {
-    "revision": "d020ba8f4a3af16d6069e52f793bac75",
+    "revision": "b275ec9523c74b4f5b9f43c1f2becee5",
     "url": "/books/05/assets/htmlimages/360_slide_OFF_Click.svg"
   },
   {
-    "revision": "8e21d48a815de2cd4de94c12a5a0d7a7",
+    "revision": "af01fc7ca77557b0567d881edf1b8ad9",
     "url": "/books/05/assets/htmlimages/360_slide_OFF_Hover.svg"
   },
   {
-    "revision": "b3e6c93a7f65b6f2d6854ae50fb64c46",
+    "revision": "9c6539216c4d44d32d0db7e293559ab6",
     "url": "/books/05/assets/htmlimages/360_slide_OFF_Normal.svg"
   },
   {
-    "revision": "3584ca37ca8abe14a463fbca2e351b7b",
+    "revision": "d0ad6752330677442ec4a3c6c8cc1bf1",
     "url": "/books/05/assets/htmlimages/360_slide_ON_Click.svg"
   },
   {
-    "revision": "e38ef68865e28bc9454ebefe161ced09",
+    "revision": "073854b6275706fd0ef4bd54ad666d6d",
     "url": "/books/05/assets/htmlimages/360_slide_ON_Hover.svg"
   },
   {
-    "revision": "42efc40544dff145a10a8fa1a96496de",
+    "revision": "05ff19f30397a8955ffdbd20e47bb159",
     "url": "/books/05/assets/htmlimages/360_slide_ON_normal.svg"
   },
   {
@@ -7616,7 +7616,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/assets/htmlimages/Play_icon.png"
   },
   {
-    "revision": "82ec958a873d324250b1f428e0a30ebd",
+    "revision": "7a234455e394a5a1932786e360c92381",
     "url": "/books/05/assets/htmlimages/ThreeD_Close.svg"
   },
   {
@@ -7628,11 +7628,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/assets/htmlimages/ThreeD_HotspotGlow.png"
   },
   {
-    "revision": "c3604d5ec2fd2bbec6a5e5f20ff56ce9",
+    "revision": "e2ab288c722b32269370e2232d1cae60",
     "url": "/books/05/assets/htmlimages/ThreeD_Pause.svg"
   },
   {
-    "revision": "b30a60e86ccb5e5d04088f1791ab3b60",
+    "revision": "a8d5165bb092b1addf35e95fc0a8cc91",
     "url": "/books/05/assets/htmlimages/ThreeD_Play.svg"
   },
   {
@@ -7736,7 +7736,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/assets/htmlimages/assessmenthotspotvisited.png"
   },
   {
-    "revision": "762e25285eb83c56c9c9397df230e419",
+    "revision": "a755bbc66810b5dd3da18484e58fb8bd",
     "url": "/books/05/assets/htmlimages/assessmenthotspotvisited.svg"
   },
   {
@@ -7968,15 +7968,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/assets/htmlimages/vidvolumemute.png"
   },
   {
-    "revision": "79ef3379b4f8fbc118d0f144159a8ab6",
+    "revision": "e7d4c69371659229b2f2e7bf8e7e1c4d",
     "url": "/books/05/assets/js/CPM.js"
   },
   {
-    "revision": "75ba4a1710cbeda9fe81f76c10b643fe",
+    "revision": "5d6619486ce39205beb79bfe8979e751",
     "url": "/books/05/assets/js/CPXHRLoader.js"
   },
   {
-    "revision": "378087a64e1394fc51f300bb9c11878c",
+    "revision": "a09e13ee94d51c524b7e2a728c7d4039",
     "url": "/books/05/assets/js/jquery-3.3.1.min.js"
   },
   {
@@ -8292,291 +8292,291 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/dr/733237.gif"
   },
   {
-    "revision": "82a93ebd4bc2d68921f87d82df785383",
+    "revision": "8f12174fe84120a092daf79864943795",
     "url": "/books/05/dr/img1.json"
   },
   {
-    "revision": "6977122f5b9fec7b97000cd98050e2e9",
+    "revision": "c7b6b0bc9e993a82fdf629ad73847e2b",
     "url": "/books/05/dr/img10.json"
   },
   {
-    "revision": "0e199b2ff5459795885bbe14eaf139fb",
+    "revision": "d2dadf53458a8fcda16382981a0810aa",
     "url": "/books/05/dr/img11.json"
   },
   {
-    "revision": "d727e6519ac6a2dd7d7500f248606c1f",
+    "revision": "f18b3d02225d0a56048ad6d946a1ba01",
     "url": "/books/05/dr/img12.json"
   },
   {
-    "revision": "74db2266008d20e148fcc039ffddac04",
+    "revision": "69eeb3f74f5dedf9c327f8e524960136",
     "url": "/books/05/dr/img13.json"
   },
   {
-    "revision": "1cd68513b85600f4ac028ca31c3a1b5b",
+    "revision": "29d5834a8ef3e49f3ca591abdddd6595",
     "url": "/books/05/dr/img14.json"
   },
   {
-    "revision": "7fb59e6df462d5d258b9388acecaed17",
+    "revision": "a4685c65fad7e6ef000ac3de24a3140f",
     "url": "/books/05/dr/img15.json"
   },
   {
-    "revision": "90ce223f30458c0b0af66c0ffb2038a8",
+    "revision": "90c27e31afda6e93271a7f3edbcf6ec3",
     "url": "/books/05/dr/img16.json"
   },
   {
-    "revision": "ed621eef23e11d1d9a00794360e6a697",
+    "revision": "429e304f98554e1ef3a62343ed82a7de",
     "url": "/books/05/dr/img17.json"
   },
   {
-    "revision": "4fa2ebdb5d91a3e12ca5d63b28436c9a",
+    "revision": "04d5c348187bcfcf5fce4b6c3ca70d0d",
     "url": "/books/05/dr/img18.json"
   },
   {
-    "revision": "558d7a0b6f3f560974336456987880e0",
+    "revision": "aca5c5725df951cae5bc2f214a4b4fdc",
     "url": "/books/05/dr/img19.json"
   },
   {
-    "revision": "e3d863f408f6ad9cd22b626aeb79d0d2",
+    "revision": "3e510836e697abefb8a2572ec636f9f3",
     "url": "/books/05/dr/img2.json"
   },
   {
-    "revision": "41fdbb81cf1e9e0d791a3bbe8e74826e",
+    "revision": "cc49bf4f12ccab0137e82c6ebf231b26",
     "url": "/books/05/dr/img20.json"
   },
   {
-    "revision": "cba7d22b21e5f20ba21c8288e656244c",
+    "revision": "d170f3311573651457c78de6ce1b0369",
     "url": "/books/05/dr/img21.json"
   },
   {
-    "revision": "452a51f8f10ec1b85cd61cda53b9deb2",
+    "revision": "0cefcc745a9ac4fb0c5f91dec7a5034c",
     "url": "/books/05/dr/img22.json"
   },
   {
-    "revision": "0d4db2749e7357db4d1d98dd647fce2e",
+    "revision": "7b3ca73e5cc8cbbfaa97d0d1b0253615",
     "url": "/books/05/dr/img23.json"
   },
   {
-    "revision": "414a9edbbaefc2f7704cf0a314d5fe21",
+    "revision": "ce36cfdc0d6f1541fa774c9dbdc97e30",
     "url": "/books/05/dr/img24.json"
   },
   {
-    "revision": "8dcccf886c0dc13cd39daf43690aa050",
+    "revision": "f679725da369fde2169f4b67bbad1dd6",
     "url": "/books/05/dr/img25.json"
   },
   {
-    "revision": "6ef42acc56618f63c9b22bca05072560",
+    "revision": "ad8738c346649d0dbff92b5b18844ea5",
     "url": "/books/05/dr/img26.json"
   },
   {
-    "revision": "92ee850a59fc73842583791ea273b460",
+    "revision": "cb10dc9815df7f1cfb410cb78108b957",
     "url": "/books/05/dr/img27.json"
   },
   {
-    "revision": "a4d77c8d20a07275842600a4ee6b119d",
+    "revision": "e22e97612a2ef8564063e15deb09befc",
     "url": "/books/05/dr/img28.json"
   },
   {
-    "revision": "3961fdfd4eb48b2299823b199fe77570",
+    "revision": "1a8a510e2cfc6f0a6f5d4b686a385250",
     "url": "/books/05/dr/img29.json"
   },
   {
-    "revision": "eb41177dc1d6321e1d1a99e103b277ea",
+    "revision": "c79079b134aa523885341917fa17e46e",
     "url": "/books/05/dr/img3.json"
   },
   {
-    "revision": "9b52a244eb27e5e13127d224ade6d332",
+    "revision": "779b78fadc7c061522094468ce9f5c5c",
     "url": "/books/05/dr/img30.json"
   },
   {
-    "revision": "e6a1689e98fd9a99d5a7de64fbb7ac7d",
+    "revision": "166de51d574ae130db2389c0f8ba37c5",
     "url": "/books/05/dr/img31.json"
   },
   {
-    "revision": "17545a4cea03adc5a162749ce6d226f9",
+    "revision": "fc4a864920a8229153b206f14781f675",
     "url": "/books/05/dr/img32.json"
   },
   {
-    "revision": "9953b27020d083786bc52844b91f4353",
+    "revision": "8bf41239cfc5a1c4b6a0c605f8f276fe",
     "url": "/books/05/dr/img33.json"
   },
   {
-    "revision": "593a5366327d43aee12177f5d115461d",
+    "revision": "7664133266596dfbd6c6dfc1ee83a582",
     "url": "/books/05/dr/img34.json"
   },
   {
-    "revision": "956d7c1621679b1fb1a02116f28e8eec",
+    "revision": "a464f1ac4b61fffbdde974c433f4f1c3",
     "url": "/books/05/dr/img35.json"
   },
   {
-    "revision": "65d1539cca425f39df805387fb46cc22",
+    "revision": "0cd231f4c142c69b86cf824a1c6fac6b",
     "url": "/books/05/dr/img36.json"
   },
   {
-    "revision": "d3bbead7e5cbd508f6e5ae6f9e43ac6b",
+    "revision": "b06be6a25c6d041d1ac118627f1c985f",
     "url": "/books/05/dr/img37.json"
   },
   {
-    "revision": "da868ff9f5546102590b8e0f79152bcd",
+    "revision": "1cfb972b3e6c1ccffae1224712a08783",
     "url": "/books/05/dr/img38.json"
   },
   {
-    "revision": "1a16604cf61293004b6dc4d5ea89638a",
+    "revision": "bef30a357930f23fa9a2d7c9b4260b0d",
     "url": "/books/05/dr/img39.json"
   },
   {
-    "revision": "d8ffb2e5ab4f66ad58d95eccdc63b243",
+    "revision": "c96aa2d312855c85e23f79e4bc2aa74f",
     "url": "/books/05/dr/img4.json"
   },
   {
-    "revision": "d81ac553495362d2895e70225104520f",
+    "revision": "ae3074701914ddbd133a6908cdd0045e",
     "url": "/books/05/dr/img40.json"
   },
   {
-    "revision": "6e9f7417a24cddf24ec618d82aba0088",
+    "revision": "a56391502726e308082fe7528ecb582d",
     "url": "/books/05/dr/img41.json"
   },
   {
-    "revision": "18820b79f3be3cf37aaa08341050ee1c",
+    "revision": "8223091d6e722199a6232a2a185e0259",
     "url": "/books/05/dr/img42.json"
   },
   {
-    "revision": "e1a1b11896f08c0110fbca7fd4bb4de3",
+    "revision": "543ec571abdaa4747915060983f228e2",
     "url": "/books/05/dr/img43.json"
   },
   {
-    "revision": "9d932dedfefeb121b28fecac391fb92c",
+    "revision": "233d49f543732eb8b67a2be88a72feb8",
     "url": "/books/05/dr/img44.json"
   },
   {
-    "revision": "09252dd960c60870c64b4758a5dd7bac",
+    "revision": "7ae23134f320808c69796c8fc26f49c7",
     "url": "/books/05/dr/img45.json"
   },
   {
-    "revision": "7b729829917be067f254da31576f070f",
+    "revision": "a46f009af0e12466222bbf5235548803",
     "url": "/books/05/dr/img46.json"
   },
   {
-    "revision": "ac5194e0f07d01624a46c0a26bf50835",
+    "revision": "551e4810985d20c5be0d3416ccef3fc8",
     "url": "/books/05/dr/img47.json"
   },
   {
-    "revision": "9ef46396a84f91af4c00cfe172f64e99",
+    "revision": "a1d0ac5428901e15c3576e184599a313",
     "url": "/books/05/dr/img48.json"
   },
   {
-    "revision": "97fb65c0f433e81750de750ebee23b98",
+    "revision": "de1015d39ebc714082efbf7c4db00fcb",
     "url": "/books/05/dr/img49.json"
   },
   {
-    "revision": "00a33dcdd271d621a68b8c00ea0dc294",
+    "revision": "0507b6afa8920a1d54e4874a02449b1d",
     "url": "/books/05/dr/img5.json"
   },
   {
-    "revision": "385b1596d56a39712756bb369f2155ae",
+    "revision": "7bf767be9ebfe8746f0066b978ff780a",
     "url": "/books/05/dr/img50.json"
   },
   {
-    "revision": "9cca7eaf88dee8df48fc5808caa15ccf",
+    "revision": "0d8e1394376f46ef711a32202536809f",
     "url": "/books/05/dr/img51.json"
   },
   {
-    "revision": "2938e610e1091e987e88de839c12f2ff",
+    "revision": "2c86842f1af6fb7e543fccd1b2617f30",
     "url": "/books/05/dr/img52.json"
   },
   {
-    "revision": "3754b1952857d6b92fd3d72f514e8b93",
+    "revision": "83fd42b3561b085e959d108e35c7c97f",
     "url": "/books/05/dr/img53.json"
   },
   {
-    "revision": "14528a27ab7bee696ff8196027d11628",
+    "revision": "b621c773b1562e573775c0b819281f5d",
     "url": "/books/05/dr/img54.json"
   },
   {
-    "revision": "845bbe0feadcd8de49dd20168e076248",
+    "revision": "1a211d6085efe4c34f3051d79bc2c6de",
     "url": "/books/05/dr/img55.json"
   },
   {
-    "revision": "243aaa420df419ed4c21bd9bfb47232d",
+    "revision": "0fa75d66ce0aa27e43e9879c97ffee04",
     "url": "/books/05/dr/img56.json"
   },
   {
-    "revision": "33597d5e2c64ed0ad86f75f98621343e",
+    "revision": "1a888c45443535984f7ae877510c21a8",
     "url": "/books/05/dr/img57.json"
   },
   {
-    "revision": "8681d8d723385577ef1ec4e2da38b1a2",
+    "revision": "c33b15a1f3a24aa33b2fe2db988a99dc",
     "url": "/books/05/dr/img58.json"
   },
   {
-    "revision": "be46319ee918c5bee728b2cbf6624ac3",
+    "revision": "1bf86e702c1b4415f35b4ab375de4af3",
     "url": "/books/05/dr/img59.json"
   },
   {
-    "revision": "cc5fd2c3ed36956a08351838f363bacc",
+    "revision": "a3c2c2ef31b2c5e2a205ea1d8ba0ec1c",
     "url": "/books/05/dr/img6.json"
   },
   {
-    "revision": "267d8e7a4dfbcc05926f8774183e62cf",
+    "revision": "c42807752f5eae54e00b50fc1a55df28",
     "url": "/books/05/dr/img60.json"
   },
   {
-    "revision": "82e524c3a7d567ae8a13f09ea3fbdbb6",
+    "revision": "7b503c8440cfa412a61961c1d6c0ab7a",
     "url": "/books/05/dr/img61.json"
   },
   {
-    "revision": "25fff0f4514b73dd495a5b17f252e786",
+    "revision": "334ddef0cf4cf00979dc255feb9b6da4",
     "url": "/books/05/dr/img62.json"
   },
   {
-    "revision": "69ea8701dc4c49f1652a38b154c975ae",
+    "revision": "289be161cd5f49e37544bfc50ee647f1",
     "url": "/books/05/dr/img63.json"
   },
   {
-    "revision": "7f6c7ae8b3d8b5e8fa550687c296ce65",
+    "revision": "ccd3a5907dc89132f361f88c38be7be4",
     "url": "/books/05/dr/img64.json"
   },
   {
-    "revision": "c30a89c08a796ec8e6e221dd09a96b7f",
+    "revision": "5dc9a5652c58baa9460a44cfa3a29e1b",
     "url": "/books/05/dr/img65.json"
   },
   {
-    "revision": "cd1b2833f13ffcdaef57995a9ae3aa0a",
+    "revision": "dadbbc74eb26b67785b9d38690d2c15e",
     "url": "/books/05/dr/img66.json"
   },
   {
-    "revision": "893c52c723693c095f3b5f0466da3a36",
+    "revision": "78c5bd60edd022f4687477a4f6e7a05a",
     "url": "/books/05/dr/img67.json"
   },
   {
-    "revision": "0222972926d52367daf3b37a4edfefdc",
+    "revision": "22e3e186de75f616559978d460fb34d6",
     "url": "/books/05/dr/img68.json"
   },
   {
-    "revision": "417211bee73f401b8bde1698996e2182",
+    "revision": "8b7f1772471e6b337f883c9ba4edb50c",
     "url": "/books/05/dr/img69.json"
   },
   {
-    "revision": "a2edbf2026bf6f9d2461e0bb3aa7b205",
+    "revision": "4ea86299986e45b7d99dc8306e78bb03",
     "url": "/books/05/dr/img7.json"
   },
   {
-    "revision": "14838a51f5e8c22f2ce212f4b14ae805",
+    "revision": "f34230cfdc2a24f64224274b73ef3856",
     "url": "/books/05/dr/img8.json"
   },
   {
-    "revision": "1339fc95149cd6706c93e25f0155fdc6",
+    "revision": "385393246bb594985b18a7fb17fec4ca",
     "url": "/books/05/dr/img9.json"
   },
   {
-    "revision": "fcbc8b17fbb818e898469d732781b5b6",
+    "revision": "df7ccb1a057b55da0eddbde4d684c16b",
     "url": "/books/05/dr/imgmd.json"
   },
   {
-    "revision": "fbca620fabe9799c888eefcaa8794b4b",
+    "revision": "4d96aa587a679ac450231466f786d9e3",
     "url": "/books/05/goodbye.html"
   },
   {
-    "revision": "52092f723f26f4aaa12b10332c1dfac0",
+    "revision": "d97d3d567b442f57fbba728af34814b2",
     "url": "/books/05/index.html"
   },
   {
@@ -8584,28 +8584,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/books/05/project.txt"
   },
   {
-    "revision": "f074522f678e3a8f70b603cdc250d411",
+    "revision": "1d52837e196b8189682123434e1192ab",
     "url": "/index.html"
   },
   {
-    "revision": "cbc9b0edf6b6c69289d2",
+    "revision": "c313beaa480d262fe7fd",
     "url": "/static/css/2.04ff9426.chunk.css"
   },
   {
-    "revision": "631f127da260ac4d7c5f",
-    "url": "/static/css/index.8d3397d7.chunk.css"
+    "revision": "0e3eb17057d10473cc02",
+    "url": "/static/css/index.cd966e83.chunk.css"
   },
   {
-    "revision": "cbc9b0edf6b6c69289d2",
-    "url": "/static/js/2.e640cba0.chunk.js"
+    "revision": "c313beaa480d262fe7fd",
+    "url": "/static/js/2.22f7c320.chunk.js"
   },
   {
     "revision": "df70e88160ca60355b5555e5ed8537ea",
-    "url": "/static/js/2.e640cba0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.22f7c320.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "631f127da260ac4d7c5f",
-    "url": "/static/js/index.a18897e3.chunk.js"
+    "revision": "0e3eb17057d10473cc02",
+    "url": "/static/js/index.40309979.chunk.js"
   },
   {
     "revision": "995479d5341e246fde38",
@@ -8618,5 +8618,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a439170125ceee54eb85f6267244ba0",
     "url": "/static/media/imageDropShadow.4a439170.png"
+  },
+  {
+    "revision": "d0289dc0a46fc5b15b3363ffa78cf6c7",
+    "url": "/static/media/备案图标.d0289dc0.png"
   }
 ]);

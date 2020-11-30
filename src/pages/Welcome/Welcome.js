@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Logo from '../../media/imageDropShadow.png';
+import PoliceLabel from '../../media/备案图标.png'
 import { Link } from 'react-router-dom';
 import { Card, Row, Col, Button } from "antd";
 
@@ -51,7 +52,26 @@ export class Welcome extends Component {
           <br />
           <br />
           <h2 style={styleBlueText}>本网站备案/许可证编号为：浙ICP备2020036580号</h2>
+          <div style={styleBlueText}>
+            < img style={{ 
+              alignItems: "center",
+              justify: "center"
+            }} src={PoliceLabel}/>
+            浙公网安备 33102302000273号
+          </div>
+          {/* <div id="container" style="white-space:nowrap">
+              <div id="PoliceLabel" style="display:inline;">
+                <img src={PoliceLabel}/>
+              </div>
+              <div id="texts" style="display:inline; white-space:nowrap;"> 
+                <p style={styleBlueText}>浙公网安备 33102302000273号</p >
+              </div>
+          </div> */}
+
+          
+          
       </div>
+
     );
   }
 }
